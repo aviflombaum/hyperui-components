@@ -1,0 +1,9 @@
+<%= example_heading("Panel") %>
+
+<%= render "shared/example", title: 'Panel', example: <<~PANEL
+  render HyperuiComponent::PanelComponent.new(
+    title_text: 'Springfield',
+    text: 'A noble spirit embiggens the smallest man')
+  PANEL
+%>
+
