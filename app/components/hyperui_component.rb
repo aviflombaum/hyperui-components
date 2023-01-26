@@ -1,1 +1,1 @@
-module HyperuiComponent; end
+module HyperUIComponent; end

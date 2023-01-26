@@ -1,1 +1,0 @@
-module HyperuiComponent::Traits; end
