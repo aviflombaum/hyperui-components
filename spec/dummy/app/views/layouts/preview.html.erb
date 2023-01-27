@@ -1,13 +1,19 @@
 <!DOCTYPE html>
-<html>
+<html class="<%= params.dig(:theme) || params.dig(:lookbook, :display, :theme) %>">
   <head>
     <title>Dummy</title>
     <%= csrf_meta_tags %>
     <%= csp_meta_tag %>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="https://cdn.tailwindcss.com?plugins=forms,typography,aspect-ratio,line-clamp"></script>
+    <script>
+      tailwind.config = {
+        darkMode: 'class'
+      }
+    </script>    
   </head>
-  <body class="relative">
+  
+  <body class="<%= params[:lookbook][:display][:body_class] -%>">
     <%= yield %>
   </body>
 </html>

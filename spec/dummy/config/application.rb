@@ -26,5 +26,12 @@ module Dummy
     config.view_component.preview_paths << Rails.root.join("previews")
     config.view_component.default_preview_layout = "preview"
     config.lookbook.listen_paths << Rails.root.join("../app/components/**/*.rb")
+    config.lookbook.project_name = "Exa ViewComponents v#{Hyperui::Components::VERSION}"
+    config.lookbook.preview_display_options = {
+      theme: [
+        ["Light Default", "light"],
+        ["Dark Default", "dark"]
+      ]
+    }
   end
 end
