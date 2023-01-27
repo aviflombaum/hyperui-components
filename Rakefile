@@ -21,3 +21,10 @@ load 'rails/tasks/statistics.rake'
 
 require 'bundler/gem_tasks'
 require 'rails/dummy/tasks'
+
+namespace :dummy do
+  desc 'Start the dummy application located in spec/dummy'
+  task :start do
+    exec("./spec/dummy/bin/rails server")
+  end
+end

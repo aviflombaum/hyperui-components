@@ -1,4 +1,7 @@
-<div role="alert" class="rounded-xl border border-gray-100 p-4 shadow-xl">
+<div
+  role="alert"
+  class="rounded-xl border border-gray-100 p-4 shadow-xl dark:border-gray-800"
+>
   <div class="flex items-start gap-4">
     <span class="text-green-600">
       <svg
@@ -18,16 +21,21 @@
     </span>
 
     <div class="flex-1">
-      <strong class="block font-medium text-gray-900"> Changes saved </strong>
+      <strong class="block font-medium text-gray-900 dark:text-white">
+        Changes saved
+      </strong>
 
-      <p class="mt-1 text-sm text-gray-700">
+      <p
+        class="mt-1 text-sm text-gray-700 dark:text-gray-200"
+        dark:hover:bg-gray-800
+      >
         Your product changes have been saved.
       </p>
 
       <div class="mt-4 flex gap-2">
         <a
           href="#"
-          class="inline-flex items-center gap-2 rounded-lg bg-blue-500 px-4 py-2 text-white transition hover:bg-blue-600"
+          class="inline-flex items-center gap-2 rounded-lg bg-blue-500 px-4 py-2 text-white transition hover:bg-blue-600 dark:bg-blue-600 dark:hover:bg-blue-700"
         >
           <span class="text-sm"> Preview </span>
 
@@ -48,14 +56,16 @@
         </a>
 
         <button
-          class="block rounded-lg px-4 py-2 text-gray-700 transition hover:bg-gray-100"
+          class="block rounded-lg px-4 py-2 text-gray-700 transition hover:bg-gray-100 dark:text-gray-200 dark:hover:bg-gray-800"
         >
           <span class="text-sm">Revert</span>
         </button>
       </div>
     </div>
 
-    <button class="text-gray-500 transition hover:text-gray-600">
+    <button
+      class="text-gray-500 transition hover:text-gray-600 dark:text-gray-400 dark:hover:text-gray-500"
+    >
       <span class="sr-only">Dismiss popup</span>
 
       <svg
