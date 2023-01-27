@@ -15,4 +15,4 @@ spec/dummy/public/assets/
 spec/dummy/config/master.key
 coverage
 *.gem
-
+import/
