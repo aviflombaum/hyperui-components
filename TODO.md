@@ -6,7 +6,8 @@
 
 ## Variants
 
-- Are there any other variants besides dark and alpine.js? If not, then we're done with extracting all the components from the hyperui library.
+- Are there any other variants besides dark and alpine.js? If not, then we're done with extracting all the components from the hyperui library. **There are other variants. We can parse to ignore variants with titles of alpine or dark and include them**
+- How to deal with variants that are somewhat different in terms of components like "With Icon"
 
 ## Dynamic Content
 
@@ -18,4 +19,19 @@
 
 Does each variant within a component, like ProductCards, really need its each menu in lookbook? Do they really even need their own Ruby component?
 
+## Installer
+
+- Something to copy the source files into the included rails app?
+  
 ## Tests
+
+- Make em.
+
+## Project Readme
+
+- Make it.
+
+## Sample App
+
+- Not the dummy app but another app that uses the gem but also demonstrates its use, inheritance etc.
+
