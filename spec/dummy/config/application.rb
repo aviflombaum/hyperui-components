@@ -33,5 +33,10 @@ module Dummy
         ["Dark Default", "dark"]
       ]
     }
+    config.lookbook.ui_theme = "zinc"
+    Lookbook.define_tag(:status, [:current_status])
+    config.lookbook.ui_theme_overrides = {
+      drawer_bg: "#FFF"
+    }
   end
 end

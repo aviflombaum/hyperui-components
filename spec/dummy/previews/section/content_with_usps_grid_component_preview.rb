@@ -1,6 +1,6 @@
 module Section
   # @logical_path marketing/Sections 🧱
-  class ContentWithUsPsGridComponentPreview < ViewComponent::Preview
+  class ContentWithUSPSGridComponentPreview < ViewComponent::Preview
     # Sections Content with USPs Grid
     # ------------
     # | **Dark Mode 🌑** |                  |
@@ -9,7 +9,7 @@ module Section
     #
     # ```ruby
     # # Path: hyperui-viewcomponents/hyperui_component/section/content_with_usps_grid.rb
-    # HyperUIComponent::Section::ContentWithUsPsGrid
+    # HyperUIComponent::Section::ContentWithUSPSGrid
     # ````
     # 
     # Section components created with Tailwind CSS
@@ -20,7 +20,7 @@ module Section
     # @display body_class relative
     # @label Content with USPs Grid
     def default
-      render HyperUIComponent::Section::ContentWithUsPsGrid.new    
+      render HyperUIComponent::Section::ContentWithUSPSGrid.new    
     end      
   end
 end
