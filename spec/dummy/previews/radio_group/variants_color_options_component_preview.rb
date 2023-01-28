@@ -1,7 +1,7 @@
 module RadioGroup
   # @logical_path application-ui/Radio Groups 📻
   class VariantsColorOptionsComponentPreview < ViewComponent::Preview
-    # Radio Groups Variants Color Options
+    # Radio Groups Variants_Color Options
     # ------------
     # | **Dark Mode 🌑** |                  |
     # |------------------|------------------|

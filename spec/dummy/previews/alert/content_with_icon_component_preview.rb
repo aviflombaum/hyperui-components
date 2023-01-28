@@ -1,7 +1,7 @@
 module Alert
   # @logical_path application-ui/Alerts 📣
   class ContentWithIconComponentPreview < ViewComponent::Preview
-    # Alerts Content With Icon
+    # Alerts Content_With Icon
     # ------------
     # | **Dark Mode 🌑** |                  |
     # |------------------|------------------|

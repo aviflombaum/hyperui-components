@@ -1,7 +1,7 @@
 module Pagination
   # @logical_path application-ui/Pagination 🔢
   class WithButtonsSquareComponentPreview < ViewComponent::Preview
-    # Pagination With Buttons Square
+    # Pagination With Buttons_Square
     # ------------
     # | **Dark Mode 🌑** |                  |
     # |------------------|------------------|

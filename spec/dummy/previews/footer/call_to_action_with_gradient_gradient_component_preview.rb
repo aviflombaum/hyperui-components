@@ -1,7 +1,7 @@
 module Footer
   # @logical_path marketing/Footers ⚽️
   class CallToActionWithGradientGradientComponentPreview < ViewComponent::Preview
-    # Footers Call to Action with Gradient Gradient
+    # Footers Call to Action with Gradient_Gradient
     # ------------
     # | **Dark Mode 🌑** |                  |
     # |------------------|------------------|

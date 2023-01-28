@@ -1,7 +1,7 @@
 module CollectionCard
   # @logical_path ecommerce/Collection Cards 🙋‍♀️
   class SimpleImageSwapComponentPreview < ViewComponent::Preview
-    # Collection Cards Simple Image Swap
+    # Collection Cards Simple_Image Swap
     # ------------
     # | **Dark Mode 🌑** |                  |
     # |------------------|------------------|

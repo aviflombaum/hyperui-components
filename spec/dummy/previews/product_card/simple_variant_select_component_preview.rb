@@ -1,7 +1,7 @@
 module ProductCard
   # @logical_path ecommerce/Product Cards 🙋‍♀️
   class SimpleVariantSelectComponentPreview < ViewComponent::Preview
-    # Product Cards Simple Variant Select
+    # Product Cards Simple_Variant Select
     # ------------
     # | **Dark Mode 🌑** |                  |
     # |------------------|------------------|

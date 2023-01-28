@@ -1,7 +1,7 @@
 module Pagination
   # @logical_path application-ui/Pagination 🔢
   class WithButtonsRoundedFullComponentPreview < ViewComponent::Preview
-    # Pagination With Buttons Rounded Full
+    # Pagination With Buttons_Rounded Full
     # ------------
     # | **Dark Mode 🌑** |                  |
     # |------------------|------------------|

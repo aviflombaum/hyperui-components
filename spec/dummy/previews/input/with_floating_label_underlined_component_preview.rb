@@ -1,7 +1,7 @@
 module Input
   # @logical_path application-ui/Inputs 🔌
   class WithFloatingLabelUnderlinedComponentPreview < ViewComponent::Preview
-    # Inputs With Floating Label Underlined
+    # Inputs With Floating Label_Underlined
     # ------------
     # | **Dark Mode 🌑** |                  |
     # |------------------|------------------|

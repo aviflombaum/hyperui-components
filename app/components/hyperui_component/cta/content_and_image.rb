@@ -1,2 +1,2 @@
-class HyperUIComponent::Cta::ContentAndImage < HyperUIComponent::Base
+class HyperUIComponent::CTA::ContentAndImage < HyperUIComponent::Base
 end

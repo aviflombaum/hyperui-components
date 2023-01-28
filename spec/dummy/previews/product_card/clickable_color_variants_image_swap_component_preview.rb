@@ -1,7 +1,7 @@
 module ProductCard
   # @logical_path ecommerce/Product Cards 🙋‍♀️
   class ClickableColorVariantsImageSwapComponentPreview < ViewComponent::Preview
-    # Product Cards Clickable Color Variants Image Swap
+    # Product Cards Clickable Color Variants_Image Swap
     # ------------
     # | **Dark Mode 🌑** |                  |
     # |------------------|------------------|

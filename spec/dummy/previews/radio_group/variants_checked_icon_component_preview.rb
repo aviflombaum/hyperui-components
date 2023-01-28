@@ -1,7 +1,7 @@
 module RadioGroup
   # @logical_path application-ui/Radio Groups 📻
   class VariantsCheckedIconComponentPreview < ViewComponent::Preview
-    # Radio Groups Variants Checked Icon
+    # Radio Groups Variants_Checked Icon
     # ------------
     # | **Dark Mode 🌑** |                  |
     # |------------------|------------------|

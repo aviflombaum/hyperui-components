@@ -1,4 +1,4 @@
-module Faq
+module FAQ
   # @logical_path marketing/FAQs 🤔
   class BackgroundWithAccentBorderComponentPreview < ViewComponent::Preview
     # FAQs Background with Accent Border
@@ -9,7 +9,7 @@ module Faq
     #
     # ```ruby
     # # Path: hyperui-viewcomponents/hyperui_component/faq/background_with_accent_border.rb
-    # HyperUIComponent::Faq::BackgroundWithAccentBorder
+    # HyperUIComponent::FAQ::BackgroundWithAccentBorder
     # ````
     # 
     # FAQ components created with Tailwind CSS
@@ -20,7 +20,7 @@ module Faq
     # @display body_class max-w-3xl mx-auto p-8
     # @label Background with Accent Border
     def default
-      render HyperUIComponent::Faq::BackgroundWithAccentBorder.new    
+      render HyperUIComponent::FAQ::BackgroundWithAccentBorder.new    
     end      
   end
 end

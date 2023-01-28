@@ -1,7 +1,7 @@
 module Cart
   # @logical_path ecommerce/Carts 🛒
   class PopupCartoonComponentPreview < ViewComponent::Preview
-    # Carts Popup Cartoon
+    # Carts Popup_Cartoon
     # ------------
     # | **Dark Mode 🌑** |                  |
     # |------------------|------------------|

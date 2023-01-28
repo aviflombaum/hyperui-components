@@ -1,7 +1,7 @@
 module ProductCollection
   # @logical_path ecommerce/Product Collections 🛍
   class SimpleCenteredTitleComponentPreview < ViewComponent::Preview
-    # Product Collections Simple Centered Title
+    # Product Collections Simple_Centered Title
     # ------------
     # | **Dark Mode 🌑** |                  |
     # |------------------|------------------|

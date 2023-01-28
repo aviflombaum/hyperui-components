@@ -1,4 +1,4 @@
-module Faq
+module FAQ
   # @logical_path marketing/FAQs 🤔
   class WithDivideBorderComponentPreview < ViewComponent::Preview
     # FAQs With Divide Border
@@ -9,7 +9,7 @@ module Faq
     #
     # ```ruby
     # # Path: hyperui-viewcomponents/hyperui_component/faq/with_divide_border.rb
-    # HyperUIComponent::Faq::WithDivideBorder
+    # HyperUIComponent::FAQ::WithDivideBorder
     # ````
     # 
     # FAQ components created with Tailwind CSS
@@ -20,7 +20,7 @@ module Faq
     # @display body_class max-w-3xl mx-auto p-8
     # @label With Divide Border
     def default
-      render HyperUIComponent::Faq::WithDivideBorder.new    
+      render HyperUIComponent::FAQ::WithDivideBorder.new    
     end      
   end
 end

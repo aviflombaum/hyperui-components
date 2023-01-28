@@ -1,7 +1,7 @@
 module ProductCard
   # @logical_path ecommerce/Product Cards 🙋‍♀️
   class VariantCountImageSwapComponentPreview < ViewComponent::Preview
-    # Product Cards Variant Count Image Swap
+    # Product Cards Variant Count_Image Swap
     # ------------
     # | **Dark Mode 🌑** |                  |
     # |------------------|------------------|

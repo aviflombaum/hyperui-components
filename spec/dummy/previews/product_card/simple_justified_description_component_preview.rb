@@ -1,7 +1,7 @@
 module ProductCard
   # @logical_path ecommerce/Product Cards 🙋‍♀️
   class SimpleJustifiedDescriptionComponentPreview < ViewComponent::Preview
-    # Product Cards Simple Justified Description
+    # Product Cards Simple Justified_Description
     # ------------
     # | **Dark Mode 🌑** |                  |
     # |------------------|------------------|

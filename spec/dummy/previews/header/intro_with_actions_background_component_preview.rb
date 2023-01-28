@@ -1,7 +1,7 @@
 module Header
   # @logical_path application-ui/Header 🐤
   class IntroWithActionsBackgroundComponentPreview < ViewComponent::Preview
-    # Header Intro with Actions Background
+    # Header Intro with Actions_Background
     # ------------
     # | **Dark Mode 🌑** |                  |
     # |------------------|------------------|

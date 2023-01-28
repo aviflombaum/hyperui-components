@@ -1,2 +1,2 @@
-class HyperUIComponent::Faq::BorderWithDivideBorderAndBackground < HyperUIComponent::Base
+class HyperUIComponent::FAQ::BorderWithDivideBorderAndBackground < HyperUIComponent::Base
 end

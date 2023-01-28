@@ -1,2 +1,2 @@
-class HyperUIComponent::Faq::WithIcon < HyperUIComponent::Base
+class HyperUIComponent::FAQ::WithIcon < HyperUIComponent::Base
 end

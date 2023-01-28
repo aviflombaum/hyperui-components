@@ -1,7 +1,7 @@
 module Cart
   # @logical_path ecommerce/Carts 🛒
   class ContainedBrutalComponentPreview < ViewComponent::Preview
-    # Carts Contained Brutal
+    # Carts Contained_Brutal
     # ------------
     # | **Dark Mode 🌑** |                  |
     # |------------------|------------------|

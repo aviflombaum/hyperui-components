@@ -1,7 +1,7 @@
 module Toggle
   # @logical_path application-ui/Toggles 🎚
   class SimpleIconsComponentPreview < ViewComponent::Preview
-    # Toggles Simple Icons
+    # Toggles Simple_Icons
     # ------------
     # | **Dark Mode 🌑** |                  |
     # |------------------|------------------|

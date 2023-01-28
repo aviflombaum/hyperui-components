@@ -1,7 +1,7 @@
 module BlogCard
   # @logical_path marketing/Blog Cards 📰
   class GradientBorderAnimatedComponentPreview < ViewComponent::Preview
-    # Blog Cards Gradient Border Animated
+    # Blog Cards Gradient Border_Animated
     # ------------
     # | **Dark Mode 🌑** |                  |
     # |------------------|------------------|

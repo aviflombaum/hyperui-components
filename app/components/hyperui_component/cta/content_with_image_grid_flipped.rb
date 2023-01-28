@@ -1,2 +1,2 @@
-class HyperUIComponent::Cta::ContentWithImageGridFlipped < HyperUIComponent::Base
+class HyperUIComponent::CTA::ContentWithImageGridFlipped < HyperUIComponent::Base
 end

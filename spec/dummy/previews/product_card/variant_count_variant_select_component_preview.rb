@@ -1,7 +1,7 @@
 module ProductCard
   # @logical_path ecommerce/Product Cards 🙋‍♀️
   class VariantCountVariantSelectComponentPreview < ViewComponent::Preview
-    # Product Cards Variant Count Variant Select
+    # Product Cards Variant Count_Variant Select
     # ------------
     # | **Dark Mode 🌑** |                  |
     # |------------------|------------------|

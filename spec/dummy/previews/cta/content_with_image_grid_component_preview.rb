@@ -1,4 +1,4 @@
-module Cta
+module CTA
   # @logical_path marketing/CTAs 👋
   class ContentWithImageGridComponentPreview < ViewComponent::Preview
     # CTAs Content with Image Grid
@@ -9,7 +9,7 @@ module Cta
     #
     # ```ruby
     # # Path: hyperui-viewcomponents/hyperui_component/cta/content_with_image_grid.rb
-    # HyperUIComponent::Cta::ContentWithImageGrid
+    # HyperUIComponent::CTA::ContentWithImageGrid
     # ````
     # 
     # CTA components created with Tailwind CSS
@@ -20,7 +20,7 @@ module Cta
     # @display body_class relative
     # @label Content with Image Grid
     def default
-      render HyperUIComponent::Cta::ContentWithImageGrid.new    
+      render HyperUIComponent::CTA::ContentWithImageGrid.new    
     end      
   end
 end

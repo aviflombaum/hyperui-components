@@ -1,4 +1,4 @@
-module Faq
+module FAQ
   # @logical_path marketing/FAQs 🤔
   class WithBackgroundComponentPreview < ViewComponent::Preview
     # FAQs With Background
@@ -9,7 +9,7 @@ module Faq
     #
     # ```ruby
     # # Path: hyperui-viewcomponents/hyperui_component/faq/with_background.rb
-    # HyperUIComponent::Faq::WithBackground
+    # HyperUIComponent::FAQ::WithBackground
     # ````
     # 
     # FAQ components created with Tailwind CSS
@@ -20,7 +20,7 @@ module Faq
     # @display body_class max-w-3xl mx-auto p-8
     # @label With Background
     def default
-      render HyperUIComponent::Faq::WithBackground.new    
+      render HyperUIComponent::FAQ::WithBackground.new    
     end      
   end
 end

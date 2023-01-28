@@ -1,7 +1,7 @@
 module Badge
   # @logical_path application-ui/Badges 🥁
   class SimpleWithoutTextComponentPreview < ViewComponent::Preview
-    # Badges Simple Without Text
+    # Badges Simple_Without Text
     # ------------
     # | **Dark Mode 🌑** |                  |
     # |------------------|------------------|

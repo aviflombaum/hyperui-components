@@ -1,2 +1,2 @@
-class HyperUIComponent::Faq::BackgroundWithAccentBorder < HyperUIComponent::Base
+class HyperUIComponent::FAQ::BackgroundWithAccentBorder < HyperUIComponent::Base
 end

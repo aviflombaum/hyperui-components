@@ -1,7 +1,7 @@
 module Table
   # @logical_path application-ui/Tables 🍽
   class WithHeaderColorBorderRoundedComponentPreview < ViewComponent::Preview
-    # Tables With Header Color Border + Rounded
+    # Tables With Header Color_Border + Rounded
     # ------------
     # | **Dark Mode 🌑** |                  |
     # |------------------|------------------|

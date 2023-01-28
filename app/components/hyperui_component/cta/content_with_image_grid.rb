@@ -1,2 +1,2 @@
-class HyperUIComponent::Cta::ContentWithImageGrid < HyperUIComponent::Base
+class HyperUIComponent::CTA::ContentWithImageGrid < HyperUIComponent::Base
 end

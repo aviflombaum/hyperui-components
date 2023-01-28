@@ -1,7 +1,7 @@
 module CollectionCard
   # @logical_path ecommerce/Collection Cards 🙋‍♀️
   class ContentInsideImageSwapComponentPreview < ViewComponent::Preview
-    # Collection Cards Content Inside Image Swap
+    # Collection Cards Content Inside_Image Swap
     # ------------
     # | **Dark Mode 🌑** |                  |
     # |------------------|------------------|

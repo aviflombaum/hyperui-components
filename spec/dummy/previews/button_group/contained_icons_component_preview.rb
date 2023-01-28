@@ -1,7 +1,7 @@
 module ButtonGroup
   # @logical_path application-ui/Button Groups 👆
   class ContainedIconsComponentPreview < ViewComponent::Preview
-    # Button Groups Contained Icons
+    # Button Groups Contained_Icons
     # ------------
     # | **Dark Mode 🌑** |                  |
     # |------------------|------------------|

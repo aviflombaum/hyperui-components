@@ -1,7 +1,7 @@
 module CollectionCard
   # @logical_path ecommerce/Collection Cards 🙋‍♀️
   class SimpleDescriptionComponentPreview < ViewComponent::Preview
-    # Collection Cards Simple Description
+    # Collection Cards Simple_Description
     # ------------
     # | **Dark Mode 🌑** |                  |
     # |------------------|------------------|

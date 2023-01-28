@@ -1,7 +1,7 @@
 module Table
   # @logical_path application-ui/Tables 🍽
   class DataTableActionComponentPreview < ViewComponent::Preview
-    # Tables Data Table Action
+    # Tables Data Table_Action
     # ------------
     # | **Dark Mode 🌑** |                  |
     # |------------------|------------------|

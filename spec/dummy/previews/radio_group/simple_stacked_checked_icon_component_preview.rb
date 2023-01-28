@@ -1,7 +1,7 @@
 module RadioGroup
   # @logical_path application-ui/Radio Groups 📻
   class SimpleStackedCheckedIconComponentPreview < ViewComponent::Preview
-    # Radio Groups Simple Stacked Checked Icon
+    # Radio Groups Simple Stacked_Checked Icon
     # ------------
     # | **Dark Mode 🌑** |                  |
     # |------------------|------------------|

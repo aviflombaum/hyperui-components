@@ -1,2 +1,2 @@
-class HyperUIComponent::Cta::NewsletterSignUpForm < HyperUIComponent::Base
+class HyperUIComponent::CTA::NewsletterSignUpForm < HyperUIComponent::Base
 end

@@ -1,7 +1,7 @@
 module Table
   # @logical_path application-ui/Tables 🍽
   class WithCheckboxRowStickyCheckboxComponentPreview < ViewComponent::Preview
-    # Tables With Checkbox Row Sticky Checkbox
+    # Tables With Checkbox Row_Sticky Checkbox
     # ------------
     # | **Dark Mode 🌑** |                  |
     # |------------------|------------------|

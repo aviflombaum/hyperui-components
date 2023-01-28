@@ -1,7 +1,7 @@
 module ProductCard
   # @logical_path ecommerce/Product Cards 🙋‍♀️
   class ContainedSectionsWithWishlistImageSwapComponentPreview < ViewComponent::Preview
-    # Product Cards Contained Sections with Wishlist Image Swap
+    # Product Cards Contained Sections with Wishlist_Image Swap
     # ------------
     # | **Dark Mode 🌑** |                  |
     # |------------------|------------------|

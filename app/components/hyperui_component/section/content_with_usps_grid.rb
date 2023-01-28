@@ -1,2 +1,2 @@
-class HyperUIComponent::Section::ContentWithUsPsGrid < HyperUIComponent::Base
+class HyperUIComponent::Section::ContentWithUSPSGrid < HyperUIComponent::Base
 end

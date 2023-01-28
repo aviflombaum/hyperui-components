@@ -1,7 +1,7 @@
 module Table
   # @logical_path application-ui/Tables 🍽
   class SimpleBorderComponentPreview < ViewComponent::Preview
-    # Tables Simple Border
+    # Tables Simple_Border
     # ------------
     # | **Dark Mode 🌑** |                  |
     # |------------------|------------------|

@@ -1,2 +1,2 @@
-class HyperUIComponent::Cta::FeaturedProduct < HyperUIComponent::Base
+class HyperUIComponent::CTA::FeaturedProduct < HyperUIComponent::Base
 end

@@ -1,4 +1,4 @@
-module Faq
+module FAQ
   # @logical_path marketing/FAQs 🤔
   class WithIconComponentPreview < ViewComponent::Preview
     # FAQs With Icon
@@ -9,7 +9,7 @@ module Faq
     #
     # ```ruby
     # # Path: hyperui-viewcomponents/hyperui_component/faq/with_icon.rb
-    # HyperUIComponent::Faq::WithIcon
+    # HyperUIComponent::FAQ::WithIcon
     # ````
     # 
     # FAQ components created with Tailwind CSS
@@ -20,7 +20,7 @@ module Faq
     # @display body_class max-w-3xl mx-auto p-8
     # @label With Icon
     def default
-      render HyperUIComponent::Faq::WithIcon.new    
+      render HyperUIComponent::FAQ::WithIcon.new    
     end      
   end
 end

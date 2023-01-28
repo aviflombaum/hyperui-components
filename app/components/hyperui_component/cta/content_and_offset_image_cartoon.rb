@@ -1,2 +1,2 @@
-class HyperUIComponent::Cta::ContentAndOffsetImageCartoon < HyperUIComponent::Base
+class HyperUIComponent::CTA::ContentAndOffsetImageCartoon < HyperUIComponent::Base
 end

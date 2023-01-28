@@ -1,4 +1,4 @@
-module Cta
+module CTA
   # @logical_path marketing/CTAs 👋
   class FeaturedProductComponentPreview < ViewComponent::Preview
     # CTAs Featured Product
@@ -9,7 +9,7 @@ module Cta
     #
     # ```ruby
     # # Path: hyperui-viewcomponents/hyperui_component/cta/featured_product.rb
-    # HyperUIComponent::Cta::FeaturedProduct
+    # HyperUIComponent::CTA::FeaturedProduct
     # ````
     # 
     # CTA components created with Tailwind CSS
@@ -20,7 +20,7 @@ module Cta
     # @display body_class relative
     # @label Featured Product
     def default
-      render HyperUIComponent::Cta::FeaturedProduct.new    
+      render HyperUIComponent::CTA::FeaturedProduct.new    
     end      
   end
 end

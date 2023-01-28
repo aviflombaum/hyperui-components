@@ -1,7 +1,7 @@
 module ProductCard
   # @logical_path ecommerce/Product Cards 🙋‍♀️
   class SimpleRoundedImageSwapComponentPreview < ViewComponent::Preview
-    # Product Cards Simple Rounded Image Swap
+    # Product Cards Simple Rounded_Image Swap
     # ------------
     # | **Dark Mode 🌑** |                  |
     # |------------------|------------------|
