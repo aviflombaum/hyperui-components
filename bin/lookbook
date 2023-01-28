@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# Start the dummy application located in spec/dummy
+  
+./spec/dummy/bin/rails server
+  

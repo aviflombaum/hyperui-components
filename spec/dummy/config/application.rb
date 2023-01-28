@@ -11,6 +11,8 @@ module Dummy
   class Application < Rails::Application
     config.load_defaults Rails::VERSION::STRING.to_f
     require 'hyperui/components'
+    require 'dry-initializer'
+    require 'pry'
 
     # For compatibility with applications that use this config
     config.action_controller.include_all_helpers = false
@@ -23,7 +25,7 @@ module Dummy
     # config.time_zone = "Central Time (US & Canada)"
     # config.eager_load_paths << Rails.root.join("extras")
 
-    config.view_component.preview_paths << Rails.root.join("previews")
+    config.view_component.preview_paths << Rails.root.join("../previews")
     config.view_component.default_preview_layout = "preview"
     config.lookbook.listen_paths << Rails.root.join("../app/components/**/*.rb")
     config.lookbook.project_name = "Exa ViewComponents v#{Hyperui::Components::VERSION}"
