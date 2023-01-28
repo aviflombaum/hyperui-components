@@ -12,7 +12,10 @@ module Card
     # HyperUIComponent::Card::ContentOverImageWithReviewScore
     # ````
     # 
-    # Card components created with Tailwind CSS        
+    # Card components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [Content Over Image with Review Score](https://hyperui.dev/components/marketing/cards#component-12) by Mark Mead</small>              
+    #
     #
     # @display body_class max-w-md mx-auto p-8
     # @label Content Over Image with Review Score

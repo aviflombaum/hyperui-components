@@ -12,7 +12,10 @@ module ProductCollection
     # HyperUIComponent::ProductCollection::SortLayout
     # ````
     # 
-    # Product Collection components created with Tailwind CSS        
+    # Product Collection components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [Sort & Layout](https://hyperui.dev/components/ecommerce/product-collections#component-2) by Mark Mead</small>              
+    #
     #
     # @display body_class relative
     # @label Sort & Layout

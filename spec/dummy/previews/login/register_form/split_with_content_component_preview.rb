@@ -12,7 +12,10 @@ module LoginRegisterForm
     # HyperUIComponent::LoginRegisterForm::SplitWithContent
     # ````
     # 
-    # Login/Register Form components created with Tailwind CSS        
+    # Login/Register Form components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [Split with Content](https://hyperui.dev/components/application-ui/login/register-forms#component-2) by Mark Mead</small>              
+    #
     #
     # @display body_class relative
     # @label Split with Content

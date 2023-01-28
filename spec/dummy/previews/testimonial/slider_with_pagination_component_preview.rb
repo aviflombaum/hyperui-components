@@ -12,7 +12,10 @@ module Testimonial
     # HyperUIComponent::Testimonial::SliderWithPagination
     # ````
     # 
-    # Testimonial components created with Tailwind CSS        
+    # Testimonial components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [Slider with Pagination](https://hyperui.dev/components/marketing/testimonials#component-7) by Mark Mead</small>              
+    #
     #
     # @display body_class relative
     # @label Slider with Pagination

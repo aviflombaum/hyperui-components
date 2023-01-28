@@ -12,7 +12,10 @@ module VerticalMenu
     # HyperUIComponent::VerticalMenu::SplitWithHeadings
     # ````
     # 
-    # Application UI Vertical Menu components created with Tailwind CSS        
+    # Application UI Vertical Menu components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [Split with Headings](https://hyperui.dev/components/application-ui/vertical-menu#component-9) by Mark Mead</small>              
+    #
     #
     # @display body_class max-w-sm mx-auto p-8 dark:bg-slate-900
     # @label Split with Headings

@@ -12,7 +12,10 @@ module Card
     # HyperUIComponent::Card::ForumPost
     # ````
     # 
-    # Card components created with Tailwind CSS        
+    # Card components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [Forum Post](https://hyperui.dev/components/marketing/cards#component-17) by Mark Mead</small>              
+    #
     #
     # @display body_class max-w-2xl mx-auto p-8
     # @label Forum Post

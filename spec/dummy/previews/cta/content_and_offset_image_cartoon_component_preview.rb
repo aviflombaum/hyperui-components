@@ -14,6 +14,9 @@ module Cta
     # 
     # CTA components created with Tailwind CSS        
     #
+    # <small>Based HyperUI [Content and Offset Image](https://hyperui.dev/components/marketing/ctas#component-3) by Mark Mead</small>
+    #
+    #
     # @display body_class relative
     # @label Content and Offset Image Cartoon
     def default

@@ -12,7 +12,10 @@ module Popup
     # HyperUIComponent::Popup::SplitWithImageAndCallToAction
     # ````
     # 
-    # Popup components created with Tailwind CSS        
+    # Popup components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [Split with Image and Call to Action](https://hyperui.dev/components/marketing/popups#component-1) by Mark Mead</small>              
+    #
     #
     # @display body_class max-w-5xl mx-auto p-8
     # @label Split with Image and Call to Action

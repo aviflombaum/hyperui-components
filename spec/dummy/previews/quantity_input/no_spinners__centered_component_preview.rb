@@ -12,7 +12,10 @@ module QuantityInput
     # HyperUIComponent::QuantityInput::NoSpinnersCentered
     # ````
     # 
-    # Quantity Input components created with Tailwind CSS        
+    # Quantity Input components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [No Spinners + Centered](https://hyperui.dev/components/ecommerce/quantity-inputs#component-3) by Mark Mead</small>              
+    #
     #
     # @display body_class flex justify-center p-8 dark:bg-gray-900
     # @label No Spinners + Centered

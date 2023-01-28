@@ -12,7 +12,10 @@ module Header
     # HyperUIComponent::Header::IntroWithJustifiedSearchAndMiniNavigation
     # ````
     # 
-    # Application UI Header components created with Tailwind CSS        
+    # Application UI Header components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [Intro with Justified Search and Mini Navigation](https://hyperui.dev/components/application-ui/header#component-3) by Mark Mead</small>              
+    #
     #
     # @display body_class relative
     # @label Intro with Justified Search and Mini Navigation

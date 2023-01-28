@@ -14,6 +14,9 @@ module CollectionCard
     # 
     # Collection card components created with Tailwind CSS        
     #
+    # <small>Based HyperUI [Content Inside](https://hyperui.dev/components/ecommerce/collection-cards#component-2) by Mark Mead</small>
+    #
+    #
     # @display body_class p-8 max-w-md mx-auto
     # @label Content Inside Description
     def default

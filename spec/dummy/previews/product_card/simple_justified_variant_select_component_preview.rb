@@ -14,6 +14,9 @@ module ProductCard
     # 
     # Product card components created with Tailwind CSS        
     #
+    # <small>Based HyperUI [Simple (Justified)](https://hyperui.dev/components/ecommerce/product-cards#component-5) by Mark Mead</small>
+    #
+    #
     # @display body_class p-8 max-w-md mx-auto
     # @label Simple Justified Variant Select
     def default

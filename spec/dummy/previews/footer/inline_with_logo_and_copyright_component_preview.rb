@@ -12,7 +12,10 @@ module Footer
     # HyperUIComponent::Footer::InlineWithLogoAndCopyright
     # ````
     # 
-    # Footer components created with Tailwind CSS        
+    # Footer components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [Inline with Logo and Copyright](https://hyperui.dev/components/marketing/footers#component-11) by Mark Mead</small>              
+    #
     #
     # @display body_class relative
     # @label Inline with Logo and Copyright

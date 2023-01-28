@@ -12,7 +12,10 @@ module Popup
     # HyperUIComponent::Popup::FloatingSplitWithImageAndContentAndClose
     # ````
     # 
-    # Popup components created with Tailwind CSS        
+    # Popup components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [Floating Split with Image and Content and Close](https://hyperui.dev/components/marketing/popups#component-6) by Mark Mead</small>              
+    #
     #
     # @display body_class relative
     # @label Floating Split with Image and Content and Close

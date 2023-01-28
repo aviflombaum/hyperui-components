@@ -12,7 +12,10 @@ module Faq
     # HyperUIComponent::Faq::BackgroundWithAccentBorder
     # ````
     # 
-    # FAQ components created with Tailwind CSS        
+    # FAQ components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [Background with Accent Border](https://hyperui.dev/components/marketing/faqs#component-3) by Mark Mead</small>              
+    #
     #
     # @display body_class max-w-3xl mx-auto p-8
     # @label Background with Accent Border

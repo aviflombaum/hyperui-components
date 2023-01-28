@@ -12,7 +12,10 @@ module Form
     # HyperUIComponent::Form::LoginWithHighlightedForm
     # ````
     # 
-    # Form components created with Tailwind CSS        
+    # Form components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [Login with Highlighted Form](https://hyperui.dev/components/marketing/forms#component-3) by Mark Mead</small>              
+    #
     #
     # @display body_class relative
     # @label Login with Highlighted Form

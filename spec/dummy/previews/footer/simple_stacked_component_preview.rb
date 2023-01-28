@@ -12,7 +12,10 @@ module Footer
     # HyperUIComponent::Footer::SimpleStacked
     # ````
     # 
-    # Footer components created with Tailwind CSS        
+    # Footer components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [Simple Stacked](https://hyperui.dev/components/marketing/footers#component-2) by Mark Mead</small>              
+    #
     #
     # @display body_class relative
     # @label Simple Stacked

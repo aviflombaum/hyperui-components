@@ -12,7 +12,10 @@ module BlogCard
     # HyperUIComponent::BlogCard::GradientBorder
     # ````
     # 
-    # Blog card components created with Tailwind CSS        
+    # Blog card components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [Gradient Border](https://hyperui.dev/components/marketing/blog-cards#component-4) by Mark Mead</small>              
+    #
     #
     # @display body_class p-8 max-w-md mx-auto dark:bg-gray-900
     # @label Gradient Border

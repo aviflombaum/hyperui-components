@@ -12,7 +12,10 @@ module Form
     # HyperUIComponent::Form::ContactSplitWithContentAndForm
     # ````
     # 
-    # Form components created with Tailwind CSS        
+    # Form components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [Contact Split with Content and Form](https://hyperui.dev/components/marketing/forms#component-4) by Mark Mead</small>              
+    #
     #
     # @display body_class relative
     # @label Contact Split with Content and Form

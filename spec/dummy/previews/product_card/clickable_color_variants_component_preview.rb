@@ -12,7 +12,10 @@ module ProductCard
     # HyperUIComponent::ProductCard::ClickableColorVariants
     # ````
     # 
-    # Product card components created with Tailwind CSS        
+    # Product card components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [Clickable Color Variants](https://hyperui.dev/components/ecommerce/product-cards#component-3) by Mark Mead</small>              
+    #
     #
     # @display body_class p-8 max-w-md mx-auto
     # @label Clickable Color Variants

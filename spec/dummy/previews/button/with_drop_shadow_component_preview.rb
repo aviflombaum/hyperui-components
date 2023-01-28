@@ -12,7 +12,10 @@ module Button
     # HyperUIComponent::Button::WithDropShadow
     # ````
     # 
-    # Button components created with Tailwind CSS        
+    # Button components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [With Drop Shadow](https://hyperui.dev/components/marketing/buttons#component-5) by Mark Mead</small>              
+    #
     #
     # @display body_class p-8 flex flex-col items-center gap-4
     # @label With Drop Shadow

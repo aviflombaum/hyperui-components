@@ -12,7 +12,10 @@ module Popup
     # HyperUIComponent::Popup::OrderNotificationWithAction
     # ````
     # 
-    # Popup components created with Tailwind CSS        
+    # Popup components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [Order Notification with Action](https://hyperui.dev/components/marketing/popups#component-3) by Mark Mead</small>              
+    #
     #
     # @display body_class max-w-lg mx-auto p-8
     # @label Order Notification with Action

@@ -12,7 +12,10 @@ module Card
     # HyperUIComponent::Card::ShadowWithReviewScore
     # ````
     # 
-    # Card components created with Tailwind CSS        
+    # Card components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [Shadow with Review Score](https://hyperui.dev/components/marketing/cards#component-1) by Mark Mead</small>              
+    #
     #
     # @display body_class max-w-md mx-auto p-8
     # @label Shadow with Review Score

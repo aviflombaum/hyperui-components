@@ -12,7 +12,10 @@ module Step
     # HyperUIComponent::Step::ProgressBarWithDescription
     # ````
     # 
-    # Step components created with Tailwind CSS        
+    # Step components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [Progress Bar with Description](https://hyperui.dev/components/application-ui/steps#component-2) by Mark Mead</small>              
+    #
     #
     # @display body_class max-w-3xl mx-auto p-8
     # @label Progress Bar with Description

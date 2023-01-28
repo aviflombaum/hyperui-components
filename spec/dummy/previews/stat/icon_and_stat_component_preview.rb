@@ -12,7 +12,10 @@ module Stat
     # HyperUIComponent::Stat::IconAndStat
     # ````
     # 
-    # Stat components created with Tailwind CSS        
+    # Stat components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [Icon and Stat](https://hyperui.dev/components/application-ui/stats#component-2) by Mark Mead</small>              
+    #
     #
     # @display body_class max-w-lg mx-auto flex flex-col gap-4 p-8 dark:bg-slate-900
     # @label Icon and Stat

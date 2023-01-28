@@ -12,7 +12,10 @@ module ProductCollection
     # HyperUIComponent::ProductCollection::FilteringSide
     # ````
     # 
-    # Product Collection components created with Tailwind CSS        
+    # Product Collection components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [Filtering (Side)](https://hyperui.dev/components/ecommerce/product-collections#component-5) by Mark Mead</small>              
+    #
     #
     # @display body_class relative
     # @label Filtering (Side)

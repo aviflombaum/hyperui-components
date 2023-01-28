@@ -12,7 +12,10 @@ module BlogCard
     # HyperUIComponent::BlogCard::Bordered
     # ````
     # 
-    # Blog card components created with Tailwind CSS        
+    # Blog card components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [Bordered](https://hyperui.dev/components/marketing/blog-cards#component-3) by Mark Mead</small>              
+    #
     #
     # @display body_class p-8 max-w-md mx-auto dark:bg-gray-900
     # @label Bordered

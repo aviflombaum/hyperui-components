@@ -12,7 +12,10 @@ module Testimonial
     # HyperUIComponent::Testimonial::StackedWithCenteredContentAndGrid
     # ````
     # 
-    # Testimonial components created with Tailwind CSS        
+    # Testimonial components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [Stacked with Centered Content and Grid](https://hyperui.dev/components/marketing/testimonials#component-3) by Mark Mead</small>              
+    #
     #
     # @display body_class relative
     # @label Stacked with Centered Content and Grid

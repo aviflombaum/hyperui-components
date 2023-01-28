@@ -12,7 +12,10 @@ module Card
     # HyperUIComponent::Card::CartoonWithShadowAndContentRevealOnHover
     # ````
     # 
-    # Card components created with Tailwind CSS        
+    # Card components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [Cartoon with Shadow and Content Reveal on Hover](https://hyperui.dev/components/marketing/cards#component-14) by Mark Mead</small>              
+    #
     #
     # @display body_class max-w-lg mx-auto p-8
     # @label Cartoon with Shadow and Content Reveal on Hover

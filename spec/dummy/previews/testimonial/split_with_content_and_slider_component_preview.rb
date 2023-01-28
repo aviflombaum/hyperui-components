@@ -12,7 +12,10 @@ module Testimonial
     # HyperUIComponent::Testimonial::SplitWithContentAndSlider
     # ````
     # 
-    # Testimonial components created with Tailwind CSS        
+    # Testimonial components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [Split with Content and Slider](https://hyperui.dev/components/marketing/testimonials#component-1) by Mark Mead</small>              
+    #
     #
     # @display body_class relative
     # @label Split with Content and Slider

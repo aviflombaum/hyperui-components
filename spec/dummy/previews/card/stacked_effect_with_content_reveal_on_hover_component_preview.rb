@@ -12,7 +12,10 @@ module Card
     # HyperUIComponent::Card::StackedEffectWithContentRevealOnHover
     # ````
     # 
-    # Card components created with Tailwind CSS        
+    # Card components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [Stacked Effect with Content Reveal on Hover](https://hyperui.dev/components/marketing/cards#component-15) by Mark Mead</small>              
+    #
     #
     # @display body_class max-w-lg mx-auto p-8
     # @label Stacked Effect with Content Reveal on Hover

@@ -12,7 +12,10 @@ module ErrorPage
     # HyperUIComponent::ErrorPage::WithGraphic
     # ````
     # 
-    # Error Pages created with Tailwind CSS        
+    # Error Pages created with Tailwind CSS
+    #
+    # <small>Based HyperUI [With Graphic](https://hyperui.dev/components/application-ui/error-pages#component-3) by Mark Mead</small>              
+    #
     #
     # @display body_class relative
     # @label With Graphic

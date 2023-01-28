@@ -12,7 +12,10 @@ module Footer
     # HyperUIComponent::Footer::CompanyInfoLinksAndEmailSignup
     # ````
     # 
-    # Footer components created with Tailwind CSS        
+    # Footer components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [Company Info, Links and Email Signup](https://hyperui.dev/components/marketing/footers#component-12) by Mark Mead</small>              
+    #
     #
     # @display body_class relative
     # @label Company Info, Links and Email Signup

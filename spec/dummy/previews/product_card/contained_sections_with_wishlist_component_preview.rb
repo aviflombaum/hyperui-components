@@ -12,7 +12,10 @@ module ProductCard
     # HyperUIComponent::ProductCard::ContainedSectionsWithWishlist
     # ````
     # 
-    # Product card components created with Tailwind CSS        
+    # Product card components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [Contained Sections with Wishlist](https://hyperui.dev/components/ecommerce/product-cards#component-4) by Mark Mead</small>              
+    #
     #
     # @display body_class p-8 max-w-md mx-auto
     # @label Contained Sections with Wishlist

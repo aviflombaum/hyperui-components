@@ -12,7 +12,10 @@ module ProductCard
     # HyperUIComponent::ProductCard::SimpleRounded
     # ````
     # 
-    # Product card components created with Tailwind CSS        
+    # Product card components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [Simple (Rounded)](https://hyperui.dev/components/ecommerce/product-cards#component-6) by Mark Mead</small>              
+    #
     #
     # @display body_class p-8 max-w-md mx-auto
     # @label Simple (Rounded)

@@ -12,7 +12,10 @@ module Testimonial
     # HyperUIComponent::Testimonial::MasonryGridWithAuthor
     # ````
     # 
-    # Testimonial components created with Tailwind CSS        
+    # Testimonial components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [Masonry Grid with Author](https://hyperui.dev/components/marketing/testimonials#component-8) by Mark Mead</small>              
+    #
     #
     # @display body_class relative
     # @label Masonry Grid with Author

@@ -12,7 +12,10 @@ module Banner
     # HyperUIComponent::Banner::CenteredWithActionsAndGradient
     # ````
     # 
-    # Banner components created with Tailwind CSS        
+    # Banner components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [Centered with Actions and Gradient](https://hyperui.dev/components/marketing/banners#component-2) by Mark Mead</small>              
+    #
     #
     # @display body_class relative
     # @label Centered with Actions and Gradient

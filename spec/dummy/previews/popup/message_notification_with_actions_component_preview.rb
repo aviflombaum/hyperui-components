@@ -12,7 +12,10 @@ module Popup
     # HyperUIComponent::Popup::MessageNotificationWithActions
     # ````
     # 
-    # Popup components created with Tailwind CSS        
+    # Popup components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [Message Notification with Actions](https://hyperui.dev/components/marketing/popups#component-2) by Mark Mead</small>              
+    #
     #
     # @display body_class max-w-lg mx-auto p-8
     # @label Message Notification with Actions

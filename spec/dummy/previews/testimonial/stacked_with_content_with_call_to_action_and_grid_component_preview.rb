@@ -12,7 +12,10 @@ module Testimonial
     # HyperUIComponent::Testimonial::StackedWithContentWithCallToActionAndGrid
     # ````
     # 
-    # Testimonial components created with Tailwind CSS        
+    # Testimonial components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [Stacked with Content with Call to Action and Grid](https://hyperui.dev/components/marketing/testimonials#component-2) by Mark Mead</small>              
+    #
     #
     # @display body_class relative
     # @label Stacked with Content with Call to Action and Grid

@@ -12,7 +12,10 @@ module Card
     # HyperUIComponent::Card::ImageNameWithSocialLinksAndProjectLinks
     # ````
     # 
-    # Card components created with Tailwind CSS        
+    # Card components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [Image, Name, with Social Links and Project Links](https://hyperui.dev/components/marketing/cards#component-11) by Mark Mead</small>              
+    #
     #
     # @display body_class max-w-md mx-auto p-8
     # @label Image, Name, with Social Links and Project Links

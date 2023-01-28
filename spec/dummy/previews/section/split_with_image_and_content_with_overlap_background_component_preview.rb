@@ -12,7 +12,10 @@ module Section
     # HyperUIComponent::Section::SplitWithImageAndContentWithOverlapBackground
     # ````
     # 
-    # Section components created with Tailwind CSS        
+    # Section components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [Split with Image and Content with Overlap Background](https://hyperui.dev/components/marketing/sections#component-6) by Mark Mead</small>              
+    #
     #
     # @display body_class relative
     # @label Split with Image and Content with Overlap Background

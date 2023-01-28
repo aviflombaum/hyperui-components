@@ -12,7 +12,10 @@ module SideMenu
     # HyperUIComponent::SideMenu::SimpleWithAccordionMenu
     # ````
     # 
-    # Application UI Side Menu components created with Tailwind CSS        
+    # Application UI Side Menu components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [Simple with Accordion Menu](https://hyperui.dev/components/application-ui/side-menu#component-1) by Mark Mead</small>              
+    #
     #
     # @display body_class max-w-xs bg-gray-50
     # @label Simple with Accordion Menu

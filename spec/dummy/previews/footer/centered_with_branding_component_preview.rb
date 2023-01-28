@@ -12,7 +12,10 @@ module Footer
     # HyperUIComponent::Footer::CenteredWithBranding
     # ````
     # 
-    # Footer components created with Tailwind CSS        
+    # Footer components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [Centered with Branding](https://hyperui.dev/components/marketing/footers#component-8) by Mark Mead</small>              
+    #
     #
     # @display body_class relative
     # @label Centered with Branding

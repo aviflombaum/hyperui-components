@@ -12,7 +12,10 @@ module Navigation
     # HyperUIComponent::Navigation::WithSearchLinksAndActions
     # ````
     # 
-    # Navigation components created with Tailwind CSS        
+    # Navigation components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [With Search, Links and Actions](https://hyperui.dev/components/marketing/navigation#component-6) by Mark Mead</small>              
+    #
     #
     # @display body_class dark:bg-slate-900
     # @label With Search, Links and Actions

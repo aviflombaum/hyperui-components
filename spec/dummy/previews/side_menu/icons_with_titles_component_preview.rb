@@ -12,7 +12,10 @@ module SideMenu
     # HyperUIComponent::SideMenu::IconsWithTitles
     # ````
     # 
-    # Application UI Side Menu components created with Tailwind CSS        
+    # Application UI Side Menu components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [Icons with Titles](https://hyperui.dev/components/application-ui/side-menu#component-2) by Mark Mead</small>              
+    #
     #
     # @display body_class bg-gray-50
     # @label Icons with Titles

@@ -12,7 +12,10 @@ module Testimonial
     # HyperUIComponent::Testimonial::CardWithAuthorImage
     # ````
     # 
-    # Testimonial components created with Tailwind CSS        
+    # Testimonial components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [Card with Author Image](https://hyperui.dev/components/marketing/testimonials#component-6) by Mark Mead</small>              
+    #
     #
     # @display body_class relative
     # @label Card with Author Image

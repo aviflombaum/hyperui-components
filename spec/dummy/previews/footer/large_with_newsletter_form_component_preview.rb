@@ -12,7 +12,10 @@ module Footer
     # HyperUIComponent::Footer::LargeWithNewsletterForm
     # ````
     # 
-    # Footer components created with Tailwind CSS        
+    # Footer components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [Large with Newsletter Form](https://hyperui.dev/components/marketing/footers#component-1) by Mark Mead</small>              
+    #
     #
     # @display body_class relative
     # @label Large with Newsletter Form

@@ -12,7 +12,10 @@ module Footer
     # HyperUIComponent::Footer::WithCallToAction
     # ````
     # 
-    # Footer components created with Tailwind CSS        
+    # Footer components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [With Call to Action](https://hyperui.dev/components/marketing/footers#component-13) by Mark Mead</small>              
+    #
     #
     # @display body_class relative
     # @label With Call to Action

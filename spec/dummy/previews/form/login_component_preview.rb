@@ -12,7 +12,10 @@ module Form
     # HyperUIComponent::Form::Login
     # ````
     # 
-    # Form components created with Tailwind CSS        
+    # Form components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [Login](https://hyperui.dev/components/marketing/forms#component-1) by Mark Mead</small>              
+    #
     #
     # @display body_class relative
     # @label Login

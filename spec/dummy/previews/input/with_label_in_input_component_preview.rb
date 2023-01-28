@@ -12,7 +12,10 @@ module Input
     # HyperUIComponent::Input::WithLabelInInput
     # ````
     # 
-    # Input components created with Tailwind CSS        
+    # Input components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [With Label in Input](https://hyperui.dev/components/application-ui/inputs#component-4) by Mark Mead</small>              
+    #
     #
     # @display body_class max-w-sm mx-auto p-8 dark:bg-slate-800
     # @label With Label in Input

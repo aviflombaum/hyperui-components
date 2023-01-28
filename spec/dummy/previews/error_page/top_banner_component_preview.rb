@@ -12,7 +12,10 @@ module ErrorPage
     # HyperUIComponent::ErrorPage::TopBanner
     # ````
     # 
-    # Error Pages created with Tailwind CSS        
+    # Error Pages created with Tailwind CSS
+    #
+    # <small>Based HyperUI [Top Banner](https://hyperui.dev/components/application-ui/error-pages#component-4) by Mark Mead</small>              
+    #
     #
     # @display body_class relative
     # @label Top Banner

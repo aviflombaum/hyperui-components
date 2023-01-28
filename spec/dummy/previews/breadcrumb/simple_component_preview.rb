@@ -12,7 +12,10 @@ module Breadcrumb
     # HyperUIComponent::Breadcrumb::Simple
     # ````
     # 
-    # Breadcrumb components created with Tailwind CSS        
+    # Breadcrumb components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [Simple](https://hyperui.dev/components/application-ui/breadcrumbs#component-2) by Mark Mead</small>              
+    #
     #
     # @display body_class flex justify-center p-8 dark:bg-gray-900
     # @label Simple

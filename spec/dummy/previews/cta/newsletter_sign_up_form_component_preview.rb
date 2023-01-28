@@ -12,7 +12,10 @@ module Cta
     # HyperUIComponent::Cta::NewsletterSignUpForm
     # ````
     # 
-    # CTA components created with Tailwind CSS        
+    # CTA components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [Newsletter Sign Up Form](https://hyperui.dev/components/marketing/ctas#component-2) by Mark Mead</small>              
+    #
     #
     # @display body_class relative
     # @label Newsletter Sign Up Form

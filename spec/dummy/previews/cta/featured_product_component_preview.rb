@@ -12,7 +12,10 @@ module Cta
     # HyperUIComponent::Cta::FeaturedProduct
     # ````
     # 
-    # CTA components created with Tailwind CSS        
+    # CTA components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [Featured Product](https://hyperui.dev/components/marketing/ctas#component-4) by Mark Mead</small>              
+    #
     #
     # @display body_class relative
     # @label Featured Product

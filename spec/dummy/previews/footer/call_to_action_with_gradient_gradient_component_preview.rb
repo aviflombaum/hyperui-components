@@ -14,6 +14,9 @@ module Footer
     # 
     # Footer components created with Tailwind CSS        
     #
+    # <small>Based HyperUI [Call to Action with Gradient](https://hyperui.dev/components/marketing/footers#component-4) by Mark Mead</small>
+    #
+    #
     # @display body_class relative
     # @label Call to Action with Gradient Gradient
     def default

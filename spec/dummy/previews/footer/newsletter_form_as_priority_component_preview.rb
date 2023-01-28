@@ -12,7 +12,10 @@ module Footer
     # HyperUIComponent::Footer::NewsletterFormAsPriority
     # ````
     # 
-    # Footer components created with Tailwind CSS        
+    # Footer components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [Newsletter Form as Priority](https://hyperui.dev/components/marketing/footers#component-7) by Mark Mead</small>              
+    #
     #
     # @display body_class relative
     # @label Newsletter Form as Priority

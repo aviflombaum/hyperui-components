@@ -12,7 +12,10 @@ module Card
     # HyperUIComponent::Card::StackedWithLargeImageAndContent
     # ````
     # 
-    # Card components created with Tailwind CSS        
+    # Card components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [Stacked with Large Image and Content](https://hyperui.dev/components/marketing/cards#component-5) by Mark Mead</small>              
+    #
     #
     # @display body_class max-w-md mx-auto p-8
     # @label Stacked with Large Image and Content

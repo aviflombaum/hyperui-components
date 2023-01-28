@@ -12,7 +12,10 @@ module Stat
     # HyperUIComponent::Stat::SimpleWithGrid
     # ````
     # 
-    # Stat components created with Tailwind CSS        
+    # Stat components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [Simple with Grid](https://hyperui.dev/components/marketing/stats#component-1) by Mark Mead</small>              
+    #
     #
     # @display body_class dark:bg-slate-900
     # @label Simple with Grid

@@ -12,7 +12,10 @@ module Footer
     # HyperUIComponent::Footer::SlimWithBrandingAndLinkTop
     # ````
     # 
-    # Footer components created with Tailwind CSS        
+    # Footer components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [Slim with Branding and Link Top](https://hyperui.dev/components/marketing/footers#component-9) by Mark Mead</small>              
+    #
     #
     # @display body_class relative
     # @label Slim with Branding and Link Top

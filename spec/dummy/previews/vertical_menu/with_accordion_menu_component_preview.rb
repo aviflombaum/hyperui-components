@@ -12,7 +12,10 @@ module VerticalMenu
     # HyperUIComponent::VerticalMenu::WithAccordionMenu
     # ````
     # 
-    # Application UI Vertical Menu components created with Tailwind CSS        
+    # Application UI Vertical Menu components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [With Accordion Menu](https://hyperui.dev/components/application-ui/vertical-menu#component-6) by Mark Mead</small>              
+    #
     #
     # @display body_class max-w-sm mx-auto p-8 dark:bg-slate-900
     # @label With Accordion Menu

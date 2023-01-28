@@ -12,7 +12,10 @@ module Banner
     # HyperUIComponent::Banner::LeftWithActionsAndImage
     # ````
     # 
-    # Banner components created with Tailwind CSS        
+    # Banner components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [Left with Actions and Image](https://hyperui.dev/components/marketing/banners#component-3) by Mark Mead</small>              
+    #
     #
     # @display body_class relative
     # @label Left with Actions and Image

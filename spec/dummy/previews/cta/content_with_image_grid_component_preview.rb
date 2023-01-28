@@ -12,7 +12,10 @@ module Cta
     # HyperUIComponent::Cta::ContentWithImageGrid
     # ````
     # 
-    # CTA components created with Tailwind CSS        
+    # CTA components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [Content with Image Grid](https://hyperui.dev/components/marketing/ctas#component-5) by Mark Mead</small>              
+    #
     #
     # @display body_class relative
     # @label Content with Image Grid

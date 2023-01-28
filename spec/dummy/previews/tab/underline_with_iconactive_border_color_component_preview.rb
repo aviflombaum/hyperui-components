@@ -12,7 +12,10 @@ module Tab
     # HyperUIComponent::Tab::UnderlineWithIconActiveBorderColor
     # ````
     # 
-    # Tab components created with Tailwind CSS        
+    # Tab components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [Underline with Icon/Active Border Color](https://hyperui.dev/components/marketing/tabs#component-2) by Mark Mead</small>              
+    #
     #
     # @display body_class max-w-3xl mx-auto p-8
     # @label Underline with Icon/Active Border Color

@@ -12,7 +12,10 @@ module Card
     # HyperUIComponent::Card::WithIconContentAndBackground
     # ````
     # 
-    # Card components created with Tailwind CSS        
+    # Card components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [With Icon, Content and Background](https://hyperui.dev/components/marketing/cards#component-4) by Mark Mead</small>              
+    #
     #
     # @display body_class max-w-lg mx-auto p-8
     # @label With Icon, Content and Background

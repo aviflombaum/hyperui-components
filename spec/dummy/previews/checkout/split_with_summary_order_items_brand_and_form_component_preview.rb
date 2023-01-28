@@ -12,7 +12,10 @@ module Checkout
     # HyperUIComponent::Checkout::SplitWithSummaryOrderItemsBrandAndForm
     # ````
     # 
-    # Checkout components created with Tailwind CSS        
+    # Checkout components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [Split with Summary, Order Items, Brand and Form](https://hyperui.dev/components/ecommerce/checkouts#component-1) by Mark Mead</small>              
+    #
     #
     # @display body_class relative
     # @label Split with Summary, Order Items, Brand and Form

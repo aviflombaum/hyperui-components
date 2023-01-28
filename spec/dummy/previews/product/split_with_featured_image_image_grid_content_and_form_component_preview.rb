@@ -12,7 +12,10 @@ module Product
     # HyperUIComponent::Product::SplitWithFeaturedImageImageGridContentAndForm
     # ````
     # 
-    # Product components created with Tailwind CSS        
+    # Product components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [Split with Featured Image, Image Grid, Content and Form](https://hyperui.dev/components/ecommerce/products#component-2) by Mark Mead</small>              
+    #
     #
     # @display body_class relative
     # @label Split with Featured Image, Image Grid, Content and Form

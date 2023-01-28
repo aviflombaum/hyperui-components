@@ -12,7 +12,10 @@ module Faq
     # HyperUIComponent::Faq::WithBackground
     # ````
     # 
-    # FAQ components created with Tailwind CSS        
+    # FAQ components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [With Background](https://hyperui.dev/components/marketing/faqs#component-2) by Mark Mead</small>              
+    #
     #
     # @display body_class max-w-3xl mx-auto p-8
     # @label With Background

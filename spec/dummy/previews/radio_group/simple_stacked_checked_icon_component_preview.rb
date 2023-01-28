@@ -14,6 +14,9 @@ module RadioGroup
     # 
     # Radio Group components created with Tailwind CSS        
     #
+    # <small>Based HyperUI [Simple Stacked](https://hyperui.dev/components/application-ui/radio-groups#component-1) by Mark Mead</small>
+    #
+    #
     # @display body_class max-w-lg mx-auto p-8 dark:bg-gray-900
     # @label Simple Stacked Checked Icon
     def default

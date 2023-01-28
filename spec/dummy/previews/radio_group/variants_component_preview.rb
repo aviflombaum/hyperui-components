@@ -12,7 +12,10 @@ module RadioGroup
     # HyperUIComponent::RadioGroup::Variants
     # ````
     # 
-    # Radio Group components created with Tailwind CSS        
+    # Radio Group components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [Variants](https://hyperui.dev/components/application-ui/radio-groups#component-3) by Mark Mead</small>              
+    #
     #
     # @display body_class flex justify-center p-8 dark:bg-gray-900
     # @label Variants

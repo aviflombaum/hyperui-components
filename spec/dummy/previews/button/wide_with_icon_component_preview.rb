@@ -12,7 +12,10 @@ module Button
     # HyperUIComponent::Button::WideWithIcon
     # ````
     # 
-    # Button components created with Tailwind CSS        
+    # Button components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [Wide with Icon](https://hyperui.dev/components/marketing/buttons#component-11) by Mark Mead</small>              
+    #
     #
     # @display body_class p-8 flex flex-col items-center gap-4
     # @label Wide with Icon

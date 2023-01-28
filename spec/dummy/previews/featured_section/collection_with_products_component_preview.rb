@@ -12,7 +12,10 @@ module FeaturedSection
     # HyperUIComponent::FeaturedSection::CollectionWithProducts
     # ````
     # 
-    # Featured Section components created with Tailwind CSS        
+    # Featured Section components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [Collection with Products](https://hyperui.dev/components/ecommerce/featured-sections#component-1) by Mark Mead</small>              
+    #
     #
     # @display body_class relative
     # @label Collection with Products

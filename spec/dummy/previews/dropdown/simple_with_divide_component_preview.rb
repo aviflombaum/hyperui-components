@@ -12,7 +12,10 @@ module Dropdown
     # HyperUIComponent::Dropdown::SimpleWithDivide
     # ````
     # 
-    # Application UI Dropdown components created with Tailwind CSS        
+    # Application UI Dropdown components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [Simple with Divide](https://hyperui.dev/components/application-ui/dropdowns#component-2) by Mark Mead</small>              
+    #
     #
     # @display body_class max-w-sm mx-auto p-8 flex justify-center dark:bg-slate-900
     # @label Simple with Divide

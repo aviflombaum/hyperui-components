@@ -12,7 +12,10 @@ module Navigation
     # HyperUIComponent::Navigation::CenterAligned
     # ````
     # 
-    # Navigation components created with Tailwind CSS        
+    # Navigation components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [Center Aligned](https://hyperui.dev/components/marketing/navigation#component-2) by Mark Mead</small>              
+    #
     #
     # @display body_class dark:bg-slate-900
     # @label Center Aligned

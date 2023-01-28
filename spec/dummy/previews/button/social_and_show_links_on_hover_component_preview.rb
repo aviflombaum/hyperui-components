@@ -12,7 +12,10 @@ module Button
     # HyperUIComponent::Button::SocialAndShowLinksOnHover
     # ````
     # 
-    # Button components created with Tailwind CSS        
+    # Button components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [Social and Show Links on Hover](https://hyperui.dev/components/marketing/buttons#component-12) by Mark Mead</small>              
+    #
     #
     # @display body_class p-8 flex flex-col items-center gap-4
     # @label Social and Show Links on Hover

@@ -1,5 +1,5 @@
 module Hyperui
   module Components
-    VERSION = '4.0.0a1'.freeze
+    VERSION = '0.0.1'.freeze
   end
 end

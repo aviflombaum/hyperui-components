@@ -12,7 +12,10 @@ module Navigation
     # HyperUIComponent::Navigation::RightAligned
     # ````
     # 
-    # Navigation components created with Tailwind CSS        
+    # Navigation components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [Right Aligned](https://hyperui.dev/components/marketing/navigation#component-3) by Mark Mead</small>              
+    #
     #
     # @display body_class dark:bg-slate-900
     # @label Right Aligned

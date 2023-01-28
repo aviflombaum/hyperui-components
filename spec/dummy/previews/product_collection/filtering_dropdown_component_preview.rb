@@ -12,7 +12,10 @@ module ProductCollection
     # HyperUIComponent::ProductCollection::FilteringDropdown
     # ````
     # 
-    # Product Collection components created with Tailwind CSS        
+    # Product Collection components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [Filtering (Dropdown)](https://hyperui.dev/components/ecommerce/product-collections#component-4) by Mark Mead</small>              
+    #
     #
     # @display body_class relative
     # @label Filtering (Dropdown)

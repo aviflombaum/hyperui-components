@@ -12,7 +12,10 @@ module Card
     # HyperUIComponent::Card::StatContentWithCallToAction
     # ````
     # 
-    # Card components created with Tailwind CSS        
+    # Card components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [Stat, Content with Call to Action](https://hyperui.dev/components/marketing/cards#component-8) by Mark Mead</small>              
+    #
     #
     # @display body_class max-w-md mx-auto p-8
     # @label Stat, Content with Call to Action

@@ -12,7 +12,10 @@ module Review
     # HyperUIComponent::Review::OverallStatisticWithReviewsGrid
     # ````
     # 
-    # Review components created with Tailwind CSS        
+    # Review components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [Overall Statistic with Reviews Grid](https://hyperui.dev/components/marketing/reviews#component-1) by Mark Mead</small>              
+    #
     #
     # @display body_class relative
     # @label Overall Statistic with Reviews Grid

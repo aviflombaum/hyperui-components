@@ -12,7 +12,10 @@ module Announcement
     # HyperUIComponent::Announcement::FloatingBottom
     # ````
     # 
-    # Announcement components created with Tailwind CSS        
+    # Announcement components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [Floating Bottom](https://hyperui.dev/components/marketing/announcements#component-5) by Mark Mead</small>              
+    #
     #
     # @display body_class relative
     # @label Floating Bottom

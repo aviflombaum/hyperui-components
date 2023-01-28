@@ -14,6 +14,9 @@ module Table
     # 
     # Table components created with Tailwind CSS        
     #
+    # <small>Based HyperUI [With Checkbox Row](https://hyperui.dev/components/application-ui/tables#component-3) by Mark Mead</small>
+    #
+    #
     # @display body_class max-w-xl mx-auto p-8 dark:bg-gray-900
     # @label With Checkbox Row Sticky Checkbox
     def default

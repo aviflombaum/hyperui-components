@@ -12,7 +12,10 @@ module Card
     # HyperUIComponent::Card::ShadowWithGradientBorder
     # ````
     # 
-    # Card components created with Tailwind CSS        
+    # Card components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [Shadow with Gradient Border](https://hyperui.dev/components/marketing/cards#component-2) by Mark Mead</small>              
+    #
     #
     # @display body_class max-w-md mx-auto p-8
     # @label Shadow with Gradient Border

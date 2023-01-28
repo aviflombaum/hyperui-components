@@ -12,7 +12,10 @@ module Announcement
     # HyperUIComponent::Announcement::FixedToBottom
     # ````
     # 
-    # Announcement components created with Tailwind CSS        
+    # Announcement components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [Fixed to Bottom](https://hyperui.dev/components/marketing/announcements#component-4) by Mark Mead</small>              
+    #
     #
     # @display body_class relative
     # @label Fixed to Bottom

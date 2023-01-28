@@ -12,7 +12,10 @@ module Footer
     # HyperUIComponent::Footer::SimpleRow
     # ````
     # 
-    # Footer components created with Tailwind CSS        
+    # Footer components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [Simple Row](https://hyperui.dev/components/marketing/footers#component-3) by Mark Mead</small>              
+    #
     #
     # @display body_class relative
     # @label Simple Row

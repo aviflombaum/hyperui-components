@@ -12,7 +12,10 @@ module Card
     # HyperUIComponent::Card::BorderedWithImagePriceContentAndDetails
     # ````
     # 
-    # Card components created with Tailwind CSS        
+    # Card components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [Bordered with Image, Price, Content and Details](https://hyperui.dev/components/marketing/cards#component-10) by Mark Mead</small>              
+    #
     #
     # @display body_class max-w-md mx-auto p-8
     # @label Bordered with Image, Price, Content and Details

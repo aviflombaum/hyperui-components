@@ -14,6 +14,9 @@ module Pagination
     # 
     # Pagination components styled with Tailwind CSS        
     #
+    # <small>Based HyperUI [With Buttons](https://hyperui.dev/components/application-ui/pagination#component-1) by Mark Mead</small>
+    #
+    #
     # @display body_class flex justify-center p-8
     # @label With Buttons Square
     def default

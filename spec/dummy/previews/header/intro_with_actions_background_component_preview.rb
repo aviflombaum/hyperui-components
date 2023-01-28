@@ -14,6 +14,9 @@ module Header
     # 
     # Application UI Header components created with Tailwind CSS        
     #
+    # <small>Based HyperUI [Intro with Actions](https://hyperui.dev/components/application-ui/header#component-1) by Mark Mead</small>
+    #
+    #
     # @display body_class relative
     # @label Intro with Actions Background
     def default

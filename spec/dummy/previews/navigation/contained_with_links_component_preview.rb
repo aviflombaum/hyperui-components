@@ -12,7 +12,10 @@ module Navigation
     # HyperUIComponent::Navigation::ContainedWithLinks
     # ````
     # 
-    # Navigation components created with Tailwind CSS        
+    # Navigation components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [Contained with Links](https://hyperui.dev/components/marketing/navigation#component-7) by Mark Mead</small>              
+    #
     #
     # @display body_class dark:bg-slate-900
     # @label Contained with Links

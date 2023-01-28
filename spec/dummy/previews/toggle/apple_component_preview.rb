@@ -12,7 +12,10 @@ module Toggle
     # HyperUIComponent::Toggle::Apple
     # ````
     # 
-    # Application UI Toggle components created with Tailwind CSS        
+    # Application UI Toggle components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [Apple](https://hyperui.dev/components/application-ui/toggles#component-3) by Mark Mead</small>              
+    #
     #
     # @display body_class p-8 flex justify-center
     # @label Apple

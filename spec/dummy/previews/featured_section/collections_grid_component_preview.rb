@@ -12,7 +12,10 @@ module FeaturedSection
     # HyperUIComponent::FeaturedSection::CollectionsGrid
     # ````
     # 
-    # Featured Section components created with Tailwind CSS        
+    # Featured Section components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [Collections Grid](https://hyperui.dev/components/ecommerce/featured-sections#component-2) by Mark Mead</small>              
+    #
     #
     # @display body_class relative
     # @label Collections Grid

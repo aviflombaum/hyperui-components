@@ -12,7 +12,10 @@ module Announcement
     # HyperUIComponent::Announcement::WithSlider
     # ````
     # 
-    # Announcement components created with Tailwind CSS        
+    # Announcement components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [With Slider](https://hyperui.dev/components/marketing/announcements#component-6) by Mark Mead</small>              
+    #
     #
     # @display body_class flex flex-col gap-4
     # @label With Slider

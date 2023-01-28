@@ -12,7 +12,10 @@ module Popup
     # HyperUIComponent::Popup::FloatingWithClose
     # ````
     # 
-    # Popup components created with Tailwind CSS        
+    # Popup components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [Floating with Close](https://hyperui.dev/components/marketing/popups#component-8) by Mark Mead</small>              
+    #
     #
     # @display body_class relative
     # @label Floating with Close

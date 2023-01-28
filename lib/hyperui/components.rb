@@ -1,6 +1,4 @@
 require "rails/engine"
 require "view_component"
-require "hyperui/components/helpers/css_utilities"
 require "hyperui/components/engine"
-require "html_attributes_utils"
-require "pagy"
+

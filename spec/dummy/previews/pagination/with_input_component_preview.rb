@@ -12,7 +12,10 @@ module Pagination
     # HyperUIComponent::Pagination::WithInput
     # ````
     # 
-    # Pagination components styled with Tailwind CSS        
+    # Pagination components styled with Tailwind CSS
+    #
+    # <small>Based HyperUI [With Input](https://hyperui.dev/components/application-ui/pagination#component-2) by Mark Mead</small>              
+    #
     #
     # @display body_class flex justify-center p-8
     # @label With Input

@@ -12,7 +12,10 @@ module Form
     # HyperUIComponent::Form::LoginSplitWithFormAndImage
     # ````
     # 
-    # Form components created with Tailwind CSS        
+    # Form components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [Login Split with Form and Image](https://hyperui.dev/components/marketing/forms#component-2) by Mark Mead</small>              
+    #
     #
     # @display body_class relative
     # @label Login Split with Form and Image

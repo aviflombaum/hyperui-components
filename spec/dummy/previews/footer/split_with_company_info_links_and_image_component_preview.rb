@@ -12,7 +12,10 @@ module Footer
     # HyperUIComponent::Footer::SplitWithCompanyInfoLinksAndImage
     # ````
     # 
-    # Footer components created with Tailwind CSS        
+    # Footer components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [Split with Company Info, Links and Image](https://hyperui.dev/components/marketing/footers#component-5) by Mark Mead</small>              
+    #
     #
     # @display body_class relative
     # @label Split with Company Info, Links and Image

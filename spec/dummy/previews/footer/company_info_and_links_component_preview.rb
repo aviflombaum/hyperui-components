@@ -12,7 +12,10 @@ module Footer
     # HyperUIComponent::Footer::CompanyInfoAndLinks
     # ````
     # 
-    # Footer components created with Tailwind CSS        
+    # Footer components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [Company Info and Links](https://hyperui.dev/components/marketing/footers#component-10) by Mark Mead</small>              
+    #
     #
     # @display body_class bg-gray-50
     # @label Company Info and Links

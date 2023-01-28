@@ -12,7 +12,10 @@ module Footer
     # HyperUIComponent::Footer::SplitWithCompanyInfoLinksAndCallToAction
     # ````
     # 
-    # Footer components created with Tailwind CSS        
+    # Footer components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [Split with Company Info, Links and Call to Action](https://hyperui.dev/components/marketing/footers#component-6) by Mark Mead</small>              
+    #
     #
     # @display body_class relative
     # @label Split with Company Info, Links and Call to Action

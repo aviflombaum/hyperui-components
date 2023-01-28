@@ -1,5 +1,4 @@
 require 'pry'
-require 'pry-byebug'
 require 'view_component/test_helpers'
 require 'simplecov'
 
@@ -8,16 +7,6 @@ require File.expand_path("dummy/config/environment", __dir__)
 if ENV.fetch('SIMPLECOV') { '1' } == '1'
   SimpleCov.add_filter('spec/dummy')
   SimpleCov.start
-end
-
-include HyperuiLinkHelper
-include HyperuiBackToTopLinkHelper
-include HyperuiSkipLinkHelper
-
-module Pagy::UrlHelpers
-  def request
-    OpenStruct.new(GET: {}, session: nil, host: "https://somesite/")
-  end
 end
 
 Dir[File.join('./spec', 'components', 'shared', '*.rb')].sort.each { |file| require file }

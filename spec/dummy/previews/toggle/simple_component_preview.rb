@@ -12,7 +12,10 @@ module Toggle
     # HyperUIComponent::Toggle::Simple
     # ````
     # 
-    # Application UI Toggle components created with Tailwind CSS        
+    # Application UI Toggle components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [Simple](https://hyperui.dev/components/application-ui/toggles#component-1) by Mark Mead</small>              
+    #
     #
     # @display body_class p-8 flex justify-center
     # @label Simple

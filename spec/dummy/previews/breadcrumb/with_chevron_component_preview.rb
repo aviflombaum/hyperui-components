@@ -12,7 +12,10 @@ module Breadcrumb
     # HyperUIComponent::Breadcrumb::WithChevron
     # ````
     # 
-    # Breadcrumb components created with Tailwind CSS        
+    # Breadcrumb components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [With Chevron](https://hyperui.dev/components/application-ui/breadcrumbs#component-1) by Mark Mead</small>              
+    #
     #
     # @display body_class flex justify-center p-8 dark:bg-gray-900
     # @label With Chevron

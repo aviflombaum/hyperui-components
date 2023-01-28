@@ -12,7 +12,10 @@ module Stat
     # HyperUIComponent::Stat::SimpleWithStat
     # ````
     # 
-    # Stat components created with Tailwind CSS        
+    # Stat components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [Simple with Stat](https://hyperui.dev/components/application-ui/stats#component-3) by Mark Mead</small>              
+    #
     #
     # @display body_class max-w-lg mx-auto flex flex-col gap-4 p-8 dark:bg-slate-900
     # @label Simple with Stat

@@ -12,7 +12,10 @@ module Faq
     # HyperUIComponent::Faq::WithDivideBorder
     # ````
     # 
-    # FAQ components created with Tailwind CSS        
+    # FAQ components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [With Divide Border](https://hyperui.dev/components/marketing/faqs#component-4) by Mark Mead</small>              
+    #
     #
     # @display body_class max-w-3xl mx-auto p-8
     # @label With Divide Border

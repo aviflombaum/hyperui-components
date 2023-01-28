@@ -12,7 +12,10 @@ module Announcement
     # HyperUIComponent::Announcement::WithAction
     # ````
     # 
-    # Announcement components created with Tailwind CSS        
+    # Announcement components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [With Action](https://hyperui.dev/components/marketing/announcements#component-3) by Mark Mead</small>              
+    #
     #
     # @display body_class flex flex-col gap-4
     # @label With Action

@@ -12,7 +12,10 @@ module Section
     # HyperUIComponent::Section::ContentWithUsPsGrid
     # ````
     # 
-    # Section components created with Tailwind CSS        
+    # Section components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [Content with USPs Grid](https://hyperui.dev/components/marketing/sections#component-1) by Mark Mead</small>              
+    #
     #
     # @display body_class relative
     # @label Content with USPs Grid

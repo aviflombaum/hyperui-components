@@ -12,7 +12,10 @@ module Card
     # HyperUIComponent::Card::BorderedWithContentOnHover
     # ````
     # 
-    # Card components created with Tailwind CSS        
+    # Card components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [Bordered with Content on Hover](https://hyperui.dev/components/marketing/cards#component-7) by Mark Mead</small>              
+    #
     #
     # @display body_class max-w-md mx-auto p-8
     # @label Bordered with Content on Hover

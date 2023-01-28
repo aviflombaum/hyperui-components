@@ -12,7 +12,10 @@ module ProductCard
     # HyperUIComponent::ProductCard::VariantCount
     # ````
     # 
-    # Product card components created with Tailwind CSS        
+    # Product card components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [Variant Count](https://hyperui.dev/components/ecommerce/product-cards#component-2) by Mark Mead</small>              
+    #
     #
     # @display body_class p-8 max-w-md mx-auto
     # @label Variant Count

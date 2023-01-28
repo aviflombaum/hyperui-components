@@ -12,7 +12,10 @@ module Cart
     # HyperUIComponent::Cart::Popup
     # ````
     # 
-    # Carts components created with Tailwind CSS        
+    # Carts components created with Tailwind CSS
+    #
+    # <small>Based HyperUI [Popup](https://hyperui.dev/components/ecommerce/carts#component-1) by Mark Mead</small>              
+    #
     #
     # @display body_class flex justify-center p-8
     # @label Popup
