@@ -5,8 +5,12 @@ module Hyperui
   module Components
     class Engine < ::Rails::Engine
       isolate_namespace Hyperui::Components
-
-      # config.autoload_paths << File.expand_path(root.join("app/components"))
+      
+      Dir[Hyperui::Components::Engine.root.join("app", "helpers", "*.rb")].sort.each do |helper_path|
+        require helper_path
+        helper_class = ActiveSupport::Inflector.classify(File.basename(helper_path.gsub(".rb", "")))
+        ActiveSupport.on_load(:action_view) { include ActiveSupport::Inflector.constantize("Hyperui::#{helper_class}") }
+      end
       # config.autoload_paths << File.expand_path(root.join("app/controllers"))
       # config.autoload_paths << File.expand_path(root.join("app/views"))
       # # config.action_controller.view_paths << File.expand_path(root.join("app/views"))

@@ -1,14 +1,14 @@
-<div role="alert" class="rounded border-l-4 border-red-500 bg-red-50 p-4">
+<div role="alert" class="rounded border-l-4 border-<%= status_color(status) -%>-500 bg-<%= status_color(status) -%>-50 p-4">
   <% if icon? %>
-  <div class="flex items-center gap-2 text-red-700">
+  <div class="flex items-center gap-2 text-<%= status_color(status) -%>-700">
     <%= render HyperUIComponent::Icon.new(icon) %>
 
-    <strong class="block font-medium"><%= title %></strong>
+    <strong class="block font-medium"><%= title_content %></strong>
   </div>
   <% else %>
-  <strong class="block font-medium text-red-700"><%= title %></strong>
+  <strong class="block font-medium text-<%= status_color(status) -%>-700"><%= title_content %></strong>
   <% end %>
-  <p class="mt-2 text-sm text-red-700">
+  <p class="mt-2 text-sm text-<%= status_color(status) -%>-700">
     <%= content %>
   </p>
 </div>
