@@ -3,20 +3,21 @@ module Faq
   class BackgroundWithAccentBorderComponentPreview < ViewComponent::Preview
     # FAQs Background with Accent Border
     # ------------
-    # 
-    # 
+    # | **Dark Mode 🌑** |                  |
+    # |------------------|------------------|
+    # |  No ❌    |                  |
+    #
     # ```ruby
     # # Path: hyperui-viewcomponents/hyperui_component/faq/background_with_accent_border.rb
     # HyperUIComponent::Faq::BackgroundWithAccentBorder
     # ````
-    #
-    # FAQ components created with Tailwind CSS
+    # 
+    # FAQ components created with Tailwind CSS        
     #
     # @display body_class max-w-3xl mx-auto p-8
     # @label Background with Accent Border
     def default
       render HyperUIComponent::Faq::BackgroundWithAccentBorder.new    
-    end
-  
+    end      
   end
 end

@@ -3,20 +3,21 @@ module BlogCard
   class GradientBorderComponentPreview < ViewComponent::Preview
     # Blog Cards Gradient Border
     # ------------
-    # 
-    # 
+    # | **Dark Mode 🌑** |                  |
+    # |------------------|------------------|
+    # |  Yes ✅    |                  |
+    #
     # ```ruby
     # # Path: hyperui-viewcomponents/hyperui_component/blog_card/gradient_border.rb
     # HyperUIComponent::BlogCard::GradientBorder
     # ````
-    #
-    # Blog card components created with Tailwind CSS
+    # 
+    # Blog card components created with Tailwind CSS        
     #
     # @display body_class p-8 max-w-md mx-auto dark:bg-gray-900
     # @label Gradient Border
     def default
       render HyperUIComponent::BlogCard::GradientBorder.new    
-    end
-  
+    end      
   end
 end

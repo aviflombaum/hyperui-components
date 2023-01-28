@@ -3,20 +3,21 @@ module Testimonial
   class SplitWithContentAndSliderComponentPreview < ViewComponent::Preview
     # Testimonials Split with Content and Slider
     # ------------
-    # 
-    # 
+    # | **Dark Mode 🌑** |                  |
+    # |------------------|------------------|
+    # |  No ❌    |                  |
+    #
     # ```ruby
     # # Path: hyperui-viewcomponents/hyperui_component/testimonial/split_with_content_and_slider.rb
     # HyperUIComponent::Testimonial::SplitWithContentAndSlider
     # ````
-    #
-    # Testimonial components created with Tailwind CSS
+    # 
+    # Testimonial components created with Tailwind CSS        
     #
     # @display body_class relative
     # @label Split with Content and Slider
     def default
       render HyperUIComponent::Testimonial::SplitWithContentAndSlider.new    
-    end
-  
+    end      
   end
 end

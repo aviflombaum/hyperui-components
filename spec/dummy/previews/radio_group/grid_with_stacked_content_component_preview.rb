@@ -3,20 +3,21 @@ module RadioGroup
   class GridWithStackedContentComponentPreview < ViewComponent::Preview
     # Radio Groups Grid with Stacked Content
     # ------------
-    # 
-    # 
+    # | **Dark Mode 🌑** |                  |
+    # |------------------|------------------|
+    # |  Yes ✅    |                  |
+    #
     # ```ruby
     # # Path: hyperui-viewcomponents/hyperui_component/radio_group/grid_with_stacked_content.rb
     # HyperUIComponent::RadioGroup::GridWithStackedContent
     # ````
-    #
-    # Radio Group components created with Tailwind CSS
+    # 
+    # Radio Group components created with Tailwind CSS        
     #
     # @display body_class max-w-lg mx-auto p-8 dark:bg-gray-900
     # @label Grid with Stacked Content
     def default
       render HyperUIComponent::RadioGroup::GridWithStackedContent.new    
-    end
-  
+    end      
   end
 end

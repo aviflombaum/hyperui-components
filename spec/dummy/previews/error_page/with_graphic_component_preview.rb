@@ -3,20 +3,21 @@ module ErrorPage
   class WithGraphicComponentPreview < ViewComponent::Preview
     # Error Pages With Graphic
     # ------------
-    # 
-    # 
+    # | **Dark Mode 🌑** |                  |
+    # |------------------|------------------|
+    # |  Yes ✅    |                  |
+    #
     # ```ruby
     # # Path: hyperui-viewcomponents/hyperui_component/error_page/with_graphic.rb
     # HyperUIComponent::ErrorPage::WithGraphic
     # ````
-    #
-    # Error Pages created with Tailwind CSS
+    # 
+    # Error Pages created with Tailwind CSS        
     #
     # @display body_class relative
     # @label With Graphic
     def default
       render HyperUIComponent::ErrorPage::WithGraphic.new    
-    end
-  
+    end      
   end
 end

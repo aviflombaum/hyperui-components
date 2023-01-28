@@ -11,7 +11,7 @@
   <div class="relative">
     <details class="group [&_summary::-webkit-details-marker]:hidden">
       <summary
-        class="flex items-center gap-2 pb-1 text-gray-900 transition border-b border-gray-400 cursor-pointer hover:border-gray-600"
+        class="flex items-center gap-2 pb-1 text-gray-900 transition border-b border-gray-400 cursor-pointer hover:border-gray-600 dark:text-white"
       >
         <span class="text-sm font-medium"> Availability </span>
 
@@ -36,28 +36,36 @@
       <div
         class="z-50 group-open:absolute group-open:top-auto group-open:left-0 group-open:mt-2"
       >
-        <div class="bg-white border border-gray-200 rounded w-96">
+        <div
+          class="bg-white border border-gray-200 rounded w-96 dark:border-gray-700 dark:bg-gray-900 dark:focus:ring-offset-gray-900"
+        >
           <header class="flex items-center justify-between p-4">
-            <span class="text-sm text-gray-700"> 0 Selected </span>
+            <span class="text-sm text-gray-700 dark:text-gray-200">
+              0 Selected
+            </span>
 
             <button
               type="button"
-              class="text-sm text-gray-900 underline underline-offset-4"
+              class="text-sm text-gray-900 underline underline-offset-4 dark:text-white"
             >
               Reset
             </button>
           </header>
 
-          <ul class="p-4 space-y-1 border-t border-gray-200">
+          <ul
+            class="p-4 space-y-1 border-t border-gray-200 dark:border-gray-700"
+          >
             <li>
               <label for="FilterInStock" class="inline-flex items-center gap-2">
                 <input
                   type="checkbox"
                   id="FilterInStock"
-                  class="w-5 h-5 border-gray-300 rounded"
+                  class="w-5 h-5 border-gray-300 rounded dark:border-gray-600 dark:bg-gray-900 dark:focus:ring-offset-gray-900"
                 />
 
-                <span class="text-sm font-medium text-gray-700">
+                <span
+                  class="text-sm font-medium text-gray-700 dark:text-gray-200"
+                >
                   In Stock (5+)
                 </span>
               </label>
@@ -71,10 +79,12 @@
                 <input
                   type="checkbox"
                   id="FilterPreOrder"
-                  class="w-5 h-5 border-gray-300 rounded"
+                  class="w-5 h-5 border-gray-300 rounded dark:border-gray-600 dark:bg-gray-900 dark:focus:ring-offset-gray-900"
                 />
 
-                <span class="text-sm font-medium text-gray-700">
+                <span
+                  class="text-sm font-medium text-gray-700 dark:text-gray-200"
+                >
                   Pre Order (3+)
                 </span>
               </label>
@@ -88,10 +98,12 @@
                 <input
                   type="checkbox"
                   id="FilterOutOfStock"
-                  class="w-5 h-5 border-gray-300 rounded"
+                  class="w-5 h-5 border-gray-300 rounded dark:border-gray-600 dark:bg-gray-900 dark:focus:ring-offset-gray-900"
                 />
 
-                <span class="text-sm font-medium text-gray-700">
+                <span
+                  class="text-sm font-medium text-gray-700 dark:text-gray-200"
+                >
                   Out of Stock (10+)
                 </span>
               </label>
@@ -105,7 +117,7 @@
   <div class="relative">
     <details class="group [&_summary::-webkit-details-marker]:hidden">
       <summary
-        class="flex items-center gap-2 pb-1 text-gray-900 transition border-b border-gray-400 cursor-pointer hover:border-gray-600"
+        class="flex items-center gap-2 pb-1 text-gray-900 transition border-b border-gray-400 cursor-pointer hover:border-gray-600 dark:text-white"
       >
         <span class="text-sm font-medium"> Price </span>
 
@@ -130,41 +142,43 @@
       <div
         class="z-50 group-open:absolute group-open:top-auto group-open:left-0 group-open:mt-2"
       >
-        <div class="bg-white border border-gray-200 rounded w-96">
+        <div
+          class="bg-white border border-gray-200 rounded w-96 dark:border-gray-700 dark:bg-gray-900 dark:focus:ring-offset-gray-900"
+        >
           <header class="flex items-center justify-between p-4">
-            <span class="text-sm text-gray-700">
+            <span class="text-sm text-gray-700 dark:text-gray-200">
               The highest price is $600
             </span>
 
             <button
               type="button"
-              class="text-sm text-gray-900 underline underline-offset-4"
+              class="text-sm text-gray-900 underline underline-offset-4 dark:text-white"
             >
               Reset
             </button>
           </header>
 
-          <div class="p-4 border-t border-gray-200">
+          <div class="p-4 border-t border-gray-200 dark:border-gray-700">
             <div class="flex justify-between gap-4">
               <label for="FilterPriceFrom" class="flex items-center gap-2">
-                <span class="text-sm text-gray-600">$</span>
+                <span class="text-sm text-gray-600 dark:text-gray-300">$</span>
 
                 <input
                   type="number"
                   id="FilterPriceFrom"
                   placeholder="From"
-                  class="w-full border-gray-200 rounded-md shadow-sm sm:text-sm"
+                  class="w-full border-gray-200 rounded-md shadow-sm dark:border-gray-700 dark:bg-gray-900 dark:text-white dark:focus:ring-offset-gray-900 sm:text-sm"
                 />
               </label>
 
               <label for="FilterPriceTo" class="flex items-center gap-2">
-                <span class="text-sm text-gray-600">$</span>
+                <span class="text-sm text-gray-600 dark:text-gray-300">$</span>
 
                 <input
                   type="number"
                   id="FilterPriceTo"
                   placeholder="To"
-                  class="w-full border-gray-200 rounded-md shadow-sm sm:text-sm"
+                  class="w-full border-gray-200 rounded-md shadow-sm dark:border-gray-700 dark:bg-gray-900 dark:text-white dark:focus:ring-offset-gray-900 sm:text-sm"
                 />
               </label>
             </div>

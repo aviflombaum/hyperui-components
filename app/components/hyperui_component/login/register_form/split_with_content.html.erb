@@ -7,7 +7,7 @@
   plugins: [require('@tailwindcss/forms')]
 -->
 
-<section class="bg-white">
+<section class="bg-white dark:bg-gray-900">
   <div class="lg:grid lg:min-h-screen lg:grid-cols-12">
     <section
       class="relative flex h-32 items-end bg-gray-900 lg:col-span-5 lg:h-full xl:col-span-6"
@@ -52,7 +52,7 @@
       <div class="max-w-xl lg:max-w-3xl">
         <div class="relative -mt-16 block lg:hidden">
           <a
-            class="inline-flex h-16 w-16 items-center justify-center rounded-full bg-white text-blue-600 sm:h-20 sm:w-20"
+            class="inline-flex h-16 w-16 items-center justify-center rounded-full bg-white text-blue-600 dark:bg-gray-900 sm:h-20 sm:w-20"
             href="/"
           >
             <span class="sr-only">Home</span>
@@ -70,12 +70,12 @@
           </a>
 
           <h1
-            class="mt-2 text-2xl font-bold text-gray-900 sm:text-3xl md:text-4xl"
+            class="mt-2 text-2xl font-bold text-gray-900 dark:text-white sm:text-3xl md:text-4xl"
           >
             Welcome to Squid 🦑
           </h1>
 
-          <p class="mt-4 leading-relaxed text-gray-500">
+          <p class="mt-4 leading-relaxed text-gray-500 dark:text-gray-400">
             Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eligendi
             nam dolorum aliquam, quibusdam aperiam voluptatum.
           </p>
@@ -85,7 +85,7 @@
           <div class="col-span-6 sm:col-span-3">
             <label
               for="FirstName"
-              class="block text-sm font-medium text-gray-700"
+              class="block text-sm font-medium text-gray-700 dark:text-gray-200"
             >
               First Name
             </label>
@@ -94,14 +94,14 @@
               type="text"
               id="FirstName"
               name="first_name"
-              class="mt-1 w-full rounded-md border-gray-200 bg-white text-sm text-gray-700 shadow-sm"
+              class="mt-1 w-full rounded-md border-gray-200 bg-white text-sm text-gray-700 shadow-sm dark:border-gray-700 dark:bg-gray-800 dark:text-gray-200"
             />
           </div>
 
           <div class="col-span-6 sm:col-span-3">
             <label
               for="LastName"
-              class="block text-sm font-medium text-gray-700"
+              class="block text-sm font-medium text-gray-700 dark:text-gray-200"
             >
               Last Name
             </label>
@@ -110,12 +110,15 @@
               type="text"
               id="LastName"
               name="last_name"
-              class="mt-1 w-full rounded-md border-gray-200 bg-white text-sm text-gray-700 shadow-sm"
+              class="mt-1 w-full rounded-md border-gray-200 bg-white text-sm text-gray-700 shadow-sm dark:border-gray-700 dark:bg-gray-800 dark:text-gray-200"
             />
           </div>
 
           <div class="col-span-6">
-            <label for="Email" class="block text-sm font-medium text-gray-700">
+            <label
+              for="Email"
+              class="block text-sm font-medium text-gray-700 dark:text-gray-200"
+            >
               Email
             </label>
 
@@ -123,14 +126,14 @@
               type="email"
               id="Email"
               name="email"
-              class="mt-1 w-full rounded-md border-gray-200 bg-white text-sm text-gray-700 shadow-sm"
+              class="mt-1 w-full rounded-md border-gray-200 bg-white text-sm text-gray-700 shadow-sm dark:border-gray-700 dark:bg-gray-800 dark:text-gray-200"
             />
           </div>
 
           <div class="col-span-6 sm:col-span-3">
             <label
               for="Password"
-              class="block text-sm font-medium text-gray-700"
+              class="block text-sm font-medium text-gray-700 dark:text-gray-200"
             >
               Password
             </label>
@@ -139,14 +142,14 @@
               type="password"
               id="Password"
               name="password"
-              class="mt-1 w-full rounded-md border-gray-200 bg-white text-sm text-gray-700 shadow-sm"
+              class="mt-1 w-full rounded-md border-gray-200 bg-white text-sm text-gray-700 shadow-sm dark:border-gray-700 dark:bg-gray-800 dark:text-gray-200"
             />
           </div>
 
           <div class="col-span-6 sm:col-span-3">
             <label
               for="PasswordConfirmation"
-              class="block text-sm font-medium text-gray-700"
+              class="block text-sm font-medium text-gray-700 dark:text-gray-200"
             >
               Password Confirmation
             </label>
@@ -155,7 +158,7 @@
               type="password"
               id="PasswordConfirmation"
               name="password_confirmation"
-              class="mt-1 w-full rounded-md border-gray-200 bg-white text-sm text-gray-700 shadow-sm"
+              class="mt-1 w-full rounded-md border-gray-200 bg-white text-sm text-gray-700 shadow-sm dark:border-gray-700 dark:bg-gray-800 dark:text-gray-200"
             />
           </div>
 
@@ -165,10 +168,10 @@
                 type="checkbox"
                 id="MarketingAccept"
                 name="marketing_accept"
-                class="h-5 w-5 rounded-md border-gray-200 bg-white shadow-sm"
+                class="h-5 w-5 rounded-md border-gray-200 bg-white shadow-sm dark:border-gray-700 dark:bg-gray-800"
               />
 
-              <span class="text-sm text-gray-700">
+              <span class="text-sm text-gray-700 dark:text-gray-200">
                 I want to receive emails about events, product updates and
                 company announcements.
               </span>
@@ -176,26 +179,30 @@
           </div>
 
           <div class="col-span-6">
-            <p class="text-sm text-gray-500">
+            <p class="text-sm text-gray-500 dark:text-gray-400">
               By creating an account, you agree to our
-              <a href="#" class="text-gray-700 underline">
+              <a href="#" class="text-gray-700 underline dark:text-gray-200">
                 terms and conditions
               </a>
               and
-              <a href="#" class="text-gray-700 underline">privacy policy</a>.
+              <a href="#" class="text-gray-700 underline dark:text-gray-200">
+                privacy policy </a
+              >.
             </p>
           </div>
 
           <div class="col-span-6 sm:flex sm:items-center sm:gap-4">
             <button
-              class="inline-block shrink-0 rounded-md border border-blue-600 bg-blue-600 px-12 py-3 text-sm font-medium text-white transition hover:bg-transparent hover:text-blue-600 focus:outline-none focus:ring active:text-blue-500"
+              class="inline-block shrink-0 rounded-md border border-blue-600 bg-blue-600 px-12 py-3 text-sm font-medium text-white transition hover:bg-transparent hover:text-blue-600 focus:outline-none focus:ring active:text-blue-500 dark:hover:bg-blue-700 dark:hover:text-white"
             >
               Create an account
             </button>
 
-            <p class="mt-4 text-sm text-gray-500 sm:mt-0">
+            <p class="mt-4 text-sm text-gray-500 dark:text-gray-400 sm:mt-0">
               Already have an account?
-              <a href="#" class="text-gray-700 underline">Log in</a>.
+              <a href="#" class="text-gray-700 underline dark:text-gray-200"
+                >Log in</a
+              >.
             </p>
           </div>
         </form>

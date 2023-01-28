@@ -3,20 +3,21 @@ module Alert
   class PopupComponentPreview < ViewComponent::Preview
     # Alerts Popup
     # ------------
-    # 
-    # 
+    # | **Dark Mode 🌑** |                  |
+    # |------------------|------------------|
+    # |  Yes ✅    |                  |
+    #
     # ```ruby
     # # Path: hyperui-viewcomponents/hyperui_component/alert/popup.rb
     # HyperUIComponent::Alert::Popup
     # ````
-    #
-    # Alert components created with Tailwind CSS
+    # 
+    # Alert components created with Tailwind CSS        
     #
     # @display body_class p-8 max-w-md mx-auto dark:bg-gray-900
     # @label Popup
     def default
       render HyperUIComponent::Alert::Popup.new    
-    end
-  
+    end      
   end
 end

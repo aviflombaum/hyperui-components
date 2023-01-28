@@ -8,6 +8,7 @@
 
 - Are there any other variants besides dark and alpine.js? If not, then we're done with extracting all the components from the hyperui library. **There are other variants. We can parse to ignore variants with titles of alpine or dark and include them**
 - How to deal with variants that are somewhat different in terms of components like "With Icon"
+- Check to see if you can wrap a dark element within a container
 
 ## Dynamic Content
 
@@ -35,3 +36,6 @@ Does each variant within a component, like ProductCards, really need its each me
 
 - Not the dummy app but another app that uses the gem but also demonstrates its use, inheritance etc.
 
+## Nice to Have
+
+- Would be nice to decorate the components with some of the notes too not just the preview...ie https://github.com/primer/view_components/blob/main/app/components/primer/beta/counter.rb

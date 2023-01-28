@@ -3,20 +3,21 @@ module Section
   class ContentAndSplitWithImageAndContentComponentPreview < ViewComponent::Preview
     # Sections Content and Split with Image and Content
     # ------------
-    # 
-    # 
+    # | **Dark Mode 🌑** |                  |
+    # |------------------|------------------|
+    # |  No ❌    |                  |
+    #
     # ```ruby
     # # Path: hyperui-viewcomponents/hyperui_component/section/content_and_split_with_image_and_content.rb
     # HyperUIComponent::Section::ContentAndSplitWithImageAndContent
     # ````
-    #
-    # Section components created with Tailwind CSS
+    # 
+    # Section components created with Tailwind CSS        
     #
     # @display body_class relative
     # @label Content and Split with Image and Content
     def default
       render HyperUIComponent::Section::ContentAndSplitWithImageAndContent.new    
-    end
-  
+    end      
   end
 end

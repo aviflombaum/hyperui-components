@@ -3,20 +3,21 @@ module BlogCard
   class BorderedComponentPreview < ViewComponent::Preview
     # Blog Cards Bordered
     # ------------
-    # 
-    # 
+    # | **Dark Mode 🌑** |                  |
+    # |------------------|------------------|
+    # |  Yes ✅    |                  |
+    #
     # ```ruby
     # # Path: hyperui-viewcomponents/hyperui_component/blog_card/bordered.rb
     # HyperUIComponent::BlogCard::Bordered
     # ````
-    #
-    # Blog card components created with Tailwind CSS
+    # 
+    # Blog card components created with Tailwind CSS        
     #
     # @display body_class p-8 max-w-md mx-auto dark:bg-gray-900
     # @label Bordered
     def default
       render HyperUIComponent::BlogCard::Bordered.new    
-    end
-  
+    end      
   end
 end
