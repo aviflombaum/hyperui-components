@@ -1,7 +1,7 @@
 <div role="alert" class="rounded border-l-4 border-<%= status_color(status) -%>-500 bg-<%= status_color(status) -%>-50 p-4">
   <% if icon? %>
   <div class="flex items-center gap-2 text-<%= status_color(status) -%>-700">
-    <%= render HyperUIComponent::Icon.new(icon) %>
+    <%= heroicon icon %>
 
     <strong class="block font-medium"><%= title_content %></strong>
   </div>

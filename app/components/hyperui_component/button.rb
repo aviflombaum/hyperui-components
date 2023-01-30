@@ -1,6 +1,4 @@
 class HyperUIComponent::Button < HyperUIComponent::Base
-  renders_one :button_icon, HyperUIComponent::Icon
-
   param :text, optional: true
   
   option :icon, optional: true
@@ -36,12 +34,8 @@ class HyperUIComponent::Button < HyperUIComponent::Base
   def button_content
     helpers.safe_join([
       content_tag( :span, button_text, class: "text-sm"),
-      icon_content
+      helpers.heroicon(icon)
     ])
-  end
-
-  def icon_content
-    render(button_icon(icon)) if icon
   end
 
   def button_text

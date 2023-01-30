@@ -11,10 +11,10 @@ class AlertPreview < ViewComponent::Preview
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt assumenda quia ad cupiditate culpa recusandae provident aperiam aliquam vero! Dolorem."
     end
   end
-
+  
   # @label With Icon
   def with_icon
-    render HyperUIComponent::Alert.new(icon: :danger, status: :error) do |alert|
+    render HyperUIComponent::Alert.new(icon: "exclamation-triangle", status: :error) do |alert|
       alert.with_title{ "Danger Will Robinson!" }
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt assumenda quia ad cupiditate culpa recusandae provident aperiam aliquam vero! Dolorem."
     end
@@ -22,7 +22,7 @@ class AlertPreview < ViewComponent::Preview
 
   # @label Passing Title Text
   def passing_title_text
-    render HyperUIComponent::Alert.new(title_text: "Great Job Will Robinson!", icon: :check, status: :success) do |alert|      
+    render HyperUIComponent::Alert.new(title_text: "Great Job Will Robinson!", icon: "check-circle", status: :success) do |alert|      
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt assumenda quia ad cupiditate culpa recusandae provident aperiam aliquam vero! Dolorem."
     end
   end        

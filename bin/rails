@@ -3,7 +3,7 @@
 # installed from the root of your application.
 
 ENGINE_ROOT = File.expand_path('..', __dir__)
-ENGINE_PATH = File.expand_path('../lib/govuk/components/engine', __dir__)
+ENGINE_PATH = File.expand_path('../lib/hyperui/components/engine', __dir__)
 APP_PATH = File.expand_path('../spec/dummy/config/application', __dir__)
 
 # Set up gems listed in the Gemfile.
@@ -12,9 +12,9 @@ require 'bundler/setup' if File.exist?(ENV['BUNDLE_GEMFILE'])
 
 require "rails"
 # Pick the frameworks you want:
-require "active_job/railtie"
-require "active_record/railtie"
-require "active_storage/engine"
+# require "active_job/railtie"
+# require "active_record/railtie"
+# require "active_storage/engine"
 require "action_controller/railtie"
 require "action_mailer/railtie"
 require "action_view/railtie"

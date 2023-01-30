@@ -1,7 +1,11 @@
 # TODO
 
-- [ ] login/register forms to auth forms
-- [ ] 
+- [ ] rename login/register forms to auth forms
+- [ ] write tests
+- [ ] use stimulus
+- [ ] consider tailwind.config.js and that tailwind needs to be in the app...
+- [ ] pass heroicon configuration options
+
 ## Variants
 
 - [ ] BUG: #1 USPS/FAQ/CTA iconActive Iconactive
