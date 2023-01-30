@@ -14,8 +14,9 @@ Gem::Specification.new do |spec|
 
   spec.files = Dir["{app,config,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.md"]
 
-  spec.add_dependency("view_component", "~> 2")
-  spec.add_dependency("dry-initializer", "~> 3")
+  spec.add_dependency("view_component")
+  spec.add_dependency("heroicon")
+  spec.add_dependency("dry-initializer")
 
   spec.add_development_dependency "pry"
   spec.add_development_dependency "rspec-html-matchers"

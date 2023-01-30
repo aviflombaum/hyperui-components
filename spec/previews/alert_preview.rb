@@ -33,11 +33,9 @@ class AlertPreview < ViewComponent::Preview
     render HyperUIComponent::Alert::Popup.new
   end
   def popup_with_actions
-    render HyperUIComponent::Alert::Popup.new do |popup|
-      # helpers.safe_join([        
-        popup.with_action(bg_color: :blue, text_color: :white, icon: "arrow-top-right-on-square") {"Preview"}
-        popup.with_action(tag: :button, text_color: :gray) {"Revert"}
-      # ])
+    render HyperUIComponent::Alert::Popup.new do |popup|     
+      popup.with_action(bg_color: :blue, text_color: :white, icon: "arrow-top-right-on-square") {"Preview"}
+      popup.with_action(tag: :button, text_color: :gray) {"Revert"}
     end
   end
   # @!endgroup
